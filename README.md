@@ -2,7 +2,7 @@
   <a href="https://github.com/yutaka-art/yutaka-art/">
     <img src="https://komarev.com/ghpvc/?username=yutaka-art" alt="yutaka-art" />
   </a>
-  <a href="http://twitter.com/yutaka-art">
+  <a href="http://twitter.com/YoutanDml">
     <img height="20" src="https://img.shields.io/twitter/follow/yutaka-art?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/yutaka-art">
