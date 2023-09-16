@@ -6,7 +6,18 @@ Hi, I'm Azure solution developer. 💻
 
 
 ## 📈 Status
+[](
 [![Followers](https://badgen.org/img/zenn/yutakaosada/followers?style=flat)](https://zenn.dev/rabbit)
+)
+
+<p align="left">
+  <a href="https://github.com/yutaka-art/yutaka-art/">
+    <img src="https://komarev.com/ghpvc/?username=yutaka-art" alt="yutaka-art" />
+  </a>
+  <a href="https://github.com/yutaka-art">
+    <img height="20" src="https://img.shields.io/github/followers/yutaka-art?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
