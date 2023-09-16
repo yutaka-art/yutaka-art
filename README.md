@@ -10,7 +10,7 @@ Hi, I'm Azure solution developer. 💻
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki-lab&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tsuki-lab" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutaka-art" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutaka-art&margin-w=5)](https://github.com/yutaka-art/)
