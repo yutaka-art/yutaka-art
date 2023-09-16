@@ -6,12 +6,7 @@ Hi, I'm Azure solution developer. 💻
 
 
 ## 📈 Status
-<p align="left">
 [![Followers](https://badgen.org/img/zenn/yutakaosada/followers?style=flat)](https://zenn.dev/rabbit)
-<a href="http://twitter.com/yutaka-art">
-  <img height="20" src="https://img.shields.io/twitter/follow/yutaka-art?label=Twitter&logo=twitter&style=flat" />
-</a>
-</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki-lab&layout=compact&show_icons=true" />
