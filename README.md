@@ -7,6 +7,9 @@ Hi, I'm Azure solution developer. 💻
 
 ## 📈 Status
 <p align="left">
+  <a href="https://zenn.dev/yutakaosada/">
+    <img src="https://badgen.org/img/zenn/yutakaosada/followers?style=flat" alt="yutaka-art" />
+  </a>
   <a href="https://github.com/yutaka-art/yutaka-art/">
     <img src="https://komarev.com/ghpvc/?username=yutaka-art" alt="yutaka-art" />
   </a>
@@ -14,8 +17,6 @@ Hi, I'm Azure solution developer. 💻
     <img height="20" src="https://img.shields.io/github/followers/yutaka-art?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
-[![Followers](https://badgen.org/img/zenn/yutakaosada/followers?style=flat)](https://zenn.dev/rabbit)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
