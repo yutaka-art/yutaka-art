@@ -17,7 +17,4 @@
   <a href="http://qiita.com/yutaka-art">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutaka-art/posts.svg" />
   </a>
-  <//qiita.com/yutaka-art">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutaka-art/contributions.svg" />
-  </a>
 </p>
