@@ -1,12 +1,17 @@
-## 🌕 About yutaka-art
-Hi, I'm Azure solution engineer. 🤝
+## 🐤 About yutaka-art
+Hi, I'm Azure solution developer. 💻
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=azure,cs,dotnet,docker,kubernetes,css,django,ts,angular,eclipse,github,html,js,jquery,linkedin,linux,php,postgres,postman,powershell,py,r,vue,xd" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=azure,cs,dotnet,docker,kubernetes,linux,py,powershell,php,postman,html,js,jquery,css,ts,angular,vue,django,r,eclipse,postgres,xd,github,linkedin" />
 
 
 ## 📈 Status
+<p align="left">
 [![Followers](https://badgen.org/img/zenn/yutakaosada/followers?style=flat)](https://zenn.dev/rabbit)
+<a href="http://twitter.com/yutaka-art">
+  <img height="20" src="https://img.shields.io/twitter/follow/yutaka-art?label=Twitter&logo=twitter&style=flat" />
+</a>
+</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki-lab&layout=compact&show_icons=true" />
