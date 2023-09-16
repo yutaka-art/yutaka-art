@@ -17,7 +17,7 @@ Hi, I'm Azure solution developer. 💻
 
 ## 📨 Contact me.
 
-**[Gmail - @union.dml](union.dml@gmail.com)** | **[Portfolio Web](https://www.credly.com/users/yutaka-osada/badges)**
+**[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Portfolio Web](https://www.credly.com/users/yutaka-osada/badges)**
 
 <!--
 **yutaka-art/yutaka-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
