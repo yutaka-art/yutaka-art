@@ -1,5 +1,6 @@
 ## 🐤 About yutaka-art
 Hi, I'm Azure solution developer. 💻
+[![Followers](https://badgen.org/img/zenn/yutakaosada/followers?style=flat)](https://zenn.dev/rabbit)
 
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=azure,cs,dotnet,docker,kubernetes,linux,py,powershell,php,postman,html,js,jquery,css,ts,angular,vue,django,r,eclipse,postgres,xd,github,linkedin" />
@@ -7,7 +8,6 @@ Hi, I'm Azure solution developer. 💻
 
 ## 📈 Status
 <p align="left">
-[![Followers](https://badgen.org/img/zenn/yutakaosada/followers?style=flat)](https://zenn.dev/rabbit)
   <a href="https://github.com/yutaka-art/yutaka-art/">
     <img src="https://komarev.com/ghpvc/?username=yutaka-art" alt="yutaka-art" />
   </a>
