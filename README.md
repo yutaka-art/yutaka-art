@@ -23,7 +23,7 @@ Hi, I'm Azure solution developer. 💻
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutaka-art&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yutaka-art&column=7)](https://github.com/username=yutaka-art/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yutaka-art&column=7)](https://github-profile-trophy.vercel.app/?username=yutaka-art&column=7)
 
 ## 📨 Contact me.
 
