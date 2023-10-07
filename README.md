@@ -19,8 +19,8 @@ Hi, I'm Azure solution developer. 💻
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutaka-art&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutaka-art&column=7)](https://github-profile-trophy.vercel.app/?username=yutaka-art&column=7)
