@@ -1,0 +1,26 @@
+name: Hello World  # このworkflowの名前
+
+on: # onで実行タイミングを設定
+  workflow_dispatch: # 手動で実行するAction
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build
+        run: echo "Building..."
+
+  test:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Test
+        run: echo "Testing..."
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: test
+    if: ${{ success() }}
+    steps:
+      - name: Deploy
+        run: echo "Deploying..."
