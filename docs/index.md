@@ -1,6 +1,8 @@
 # 長田 豊 (Yutaka Osada)
+
 ## 連絡先
 - Email: union.dml@gmail.com
+
 ## SNS
 - GitHub: https://github.com/yutaka-art
 - LinkedIn: https://www.linkedin.com/in/yutaka-osada0922/
@@ -9,15 +11,15 @@
 ## サマリー
 Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps／DevSecOps プラットフォームの戦略策定から運用定着までを一気通貫でリードする DevOps Engineer／Solution Architect**
 
-- **プリセールス〜PoC〜本番展開**の全工程で 30 件超を指揮し、金融・製造・公共など厳格なガバナンスが求められる業界でも **開発リードタイムを最長 50 % 短縮、TCO を 30 % 以上削減**。
-- **GitHub Copilot と Azure OpenAI** を組み合わせた *AI‑Assisted SDLC* モダナイゼーションを推進し、コード品質指標（CQA）を平均 35 % 向上。
-- **Azure DevOps／GitHub Advanced Security＋Microsoft Entra ID** で Zero‑Trust 開発環境を設計し、SOC2／PCI‑DSS などの監査対応を自動化。
+- **プリセールス〜PoC〜本番展開**の全工程を指揮し、金融・製造・公共など厳格なガバナンスが求められる業界において **開発リードタイムを最長 30 % 短縮、TCO を 10 % 以上削減**
+- **GitHub Copilot と Azure OpenAI** を組み合わせた *AI‑Assisted SDLC* モダナイゼーションを推進し、コード品質指標（CQA）を平均 20 % 向上。
+- **Azure DevOps／GitHub Advanced Security＋Microsoft Entra ID** で Zero‑Trust 開発環境を設計
 - GitHub Japan・Microsoft 本社とのアライアンスを契機に **運用ガイド／監査ログ SaaS／Copilot メトリクス基盤** を開発し、社内外に展開。
 
 **「技術勝利＝ビジネス成果」** を信条に、Azure App Innovation & DevOps 領域でお客様のクラウド価値最大化と開発者体験向上を実現します。
 
 ## 主要スキルセット
-- Microsoft Azure（App Service／Container Apps／AKS／Functions／Monitor ほか）
+- Microsoft Azure（App Service／Container Apps／Azure Kubernetes Service／Functions／Monitor ほか）
 - Azure DevOps／GitHub Enterprise Cloud／GitHub Copilot／GitHub Advanced Security
 - DevOps／DevSecOps プラットフォーム設計・導入・ガバナンス
 - C#／VB.NET／Java／T-SQL
@@ -30,8 +32,8 @@ Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps�
   - 請求・監査・セキュリティポリシーの体系化
   - CxO 含む全ステークホルダー向けワークショップを主催し技術的信頼を獲得
 - **Azure × GitHub オファリング開発（2025）**
-  - 監査ログ収集／Copilot 利用状況メトリクス SaaS の PoC→社内カタログ化。
-  - GitHub Japan/Australia と協業し NFR 契約締結、案件創出パイプラインを 1.5 倍に拡大。
+  - 監査ログ収集／Copilot 利用状況メトリクス SaaS の PoC→社内カタログ化
+  - GitHub Japan/Australia と協業し NFR 契約締結、案件創出パイプラインを 1.5 倍に拡大
 
 **主な技術スタック：** Azure Monitor, Functions, Container Apps, GitHub API, .NET 8, Bicep
 
