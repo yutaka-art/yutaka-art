@@ -80,11 +80,11 @@ VB.NET／PL SQL／VBA による Web／業務アプリ開発、リード経験�
 - GitHub Certified: GitHub Foundations
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: DevOps Engineer Expert; 
+- Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Developer Associate
-- MCSD: App Builder;
-- MCSA: Web Applications;
-- METI (Japan)-SA/System Architect; 
+- MCSD: App Builde
+- MCSA: Web Application
+- METI (Japan)-SA/System Architect
 - METI (Japan)-AP/Applied Information Technology Engineer
 - METI (Japan)-FE/Fundamental Information Technology Engineer
 
@@ -92,24 +92,33 @@ VB.NET／PL SQL／VBA による Web／業務アプリ開発、リード経験�
 - Microsoft Most Valuable Professional (MVP) – Developer Technologies (DevOps)
 
 ## 最終学歴
-- 大正大学 人間学部仏教学科専攻 (2006年3月修了)
+- 大正大学 人間学部 仏教学科 専攻 (2006年3月修了)
 
 ## コミュニティ・社外活動（抜粋）
-- DevOpsDays Tokyo 2025
+- DevOpsDays Tokyo 2025（2025/04/15）
 「GitHub監査ログを活用したエンタープライズ向けセキュリティ強化とデータ分析基盤の構築」
+
 https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu
 
-- JPM365DEV
-「第 10 回 JPM365DEV 勉強会」
+- JPM365DEV（2025/03/25）
+「Logic Apps / Power Automate の SharePoint コネクタの裏側を知る 〜Graph APIで直接操作してみよう〜」
+
 https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou
 
-- GitHub Dockyard
+- GitHub Dockyard（2025-02-25）
 「GitHub監査ログ×クラウド分析で実現するエンタープライズセキュリティ強化」
+
 https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua
 
 - TFSUG（2024/12/14）
 「Azure PipelinesによるCI/CDとデータベースデプロイの実践」
+
 https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian
+
+- Visual Studio Users Community Japan（2024/11/30）
+「Azure DevOps REST API活用とセキュリティのベストプラクティス-Workload Identity Federationのメリット」
+
+https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto
 
 ## 執筆
 技術ブログ（Zenn）: https://zenn.dev/yutakaosada
