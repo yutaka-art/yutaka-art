@@ -66,7 +66,7 @@ Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps�
 ---
 
 ## 早期キャリア（2006 〜 2014）  
-VB.NET／PL SQL／VBA による Web／業務アプリ開発、リード経験。要件定義〜運用保守まで一貫対応。
+VB.NET／PL SQL／VBA による Web／業務アプリ開発、リード経験。要件定義〜運用保守まで一貫対応
 
 ---
 
