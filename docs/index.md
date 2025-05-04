@@ -94,31 +94,58 @@ VB.NET／PL SQL／VBA による Web／業務アプリ開発、リード経験�
 ## 最終学歴
 - 大正大学 人間学部 仏教学科 専攻 (2006年3月修了)
 
-## コミュニティ・社外活動（抜粋）
-### 登壇
-- DevOpsDays Tokyo 2025（2025/04/15）<br>
-「GitHub監査ログを活用したエンタープライズ向けセキュリティ強化とデータ分析基盤の構築」<br>
-https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu
+<h2>コミュニティ・社外活動（抜粋）</h2>
 
-- JPM365DEV（2025/03/25）<br>
-「Logic Apps / Power Automate の SharePoint コネクタの裏側を知る 〜Graph APIで直接操作してみよう〜」Mbr>
-https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou
+<h3>登壇</h3>
+<table>
+  <thead>
+    <tr>
+      <th>日付</th>
+      <th>イベント</th>
+      <th>タイトル</th>
+      <th>資料</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025/04/15</td>
+      <td>DevOpsDays Tokyo 2025</td>
+      <td>GitHub監査ログを活用したエンタープライズ向けセキュリティ強化とデータ分析基盤の構築</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu" target="_blank">資料</a></td>
+    </tr>
+    <tr>
+      <td>2025/03/25</td>
+      <td>JPM365DEV</td>
+      <td>Logic Apps / Power Automate の SharePoint コネクタの裏側を知る 〜Graph APIで直接操作してみよう〜</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou" target="_blank">資料</a></td>
+    </tr>
+    <tr>
+      <td>2025/02/25</td>
+      <td>GitHub Dockyard</td>
+      <td>GitHub監査ログ×クラウド分析で実現するエンタープライズセキュリティ強化</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua" target="_blank">資料</a></td>
+    </tr>
+    <tr>
+      <td>2024/12/14</td>
+      <td>TFSUG</td>
+      <td>Azure PipelinesによるCI/CDとデータベースデプロイの実践</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian" target="_blank">資料</a></td>
+    </tr>
+    <tr>
+      <td>2024/11/30</td>
+      <td>Visual Studio Users Community Japan</td>
+      <td>Azure DevOps REST API活用とセキュリティのベストプラクティス - Workload Identity Federationのメリット</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto" target="_blank">資料</a></td>
+    </tr>
+  </tbody>
+</table>
 
-- GitHub Dockyard（2025-02-25）<br>
-「GitHub監査ログ×クラウド分析で実現するエンタープライズセキュリティ強化」<br>
-https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua
+<h3>執筆</h3>
+<ul>
+  <li>技術ブログ（Zenn）: <a href="https://zenn.dev/yutakaosada" target="_blank">https://zenn.dev/yutakaosada</a></li>
+  <li>書籍執筆中: AZ-400 試験対策書籍（執筆中）</li>
+</ul>
 
-- TFSUG（2024/12/14）<br>
-「Azure PipelinesによるCI/CDとデータベースデプロイの実践」<br>
-https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian
-
-- Visual Studio Users Community Japan（2024/11/30）<br>
-「Azure DevOps REST API活用とセキュリティのベストプラクティス-Workload Identity Federationのメリット」<br>
-https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto
-
-### 執筆
-- 技術ブログ（Zenn）: https://zenn.dev/yutakaosada
-- 書籍執筆中: AZ-400 試験対策書籍（執筆中）
 
 ## その他
 - 過去の登壇スライドまとめ: https://speakerdeck.com/yutakaosada
