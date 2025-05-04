@@ -12,9 +12,11 @@
 ## サマリ
 Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps／DevSecOps プラットフォームの戦略策定から運用定着までを一気通貫でリードする DevOps Engineer／Solution Architect**
 
-- **プリセールス〜PoC〜本番展開**の全工程を指揮し、金融・製造・公共など厳格なガバナンスが求められる業界において **開発リードタイムを最長 30 % 短縮、TCO を 10 % 以上削減**
-- **GitHub Copilot と Azure OpenAI** を組み合わせた *AI‑Assisted SDLC* モダナイゼーションを推進し、コード品質指標（CQA）を平均 20 % 向上。
-- GitHub Japanとのアライアンスを契機に **運用ガイド／監査ログ SaaS／Copilot メトリクス基盤** を開発し、社内外に展開。
+- **プリセールス〜PoC〜本番展開まで 数種類のプロジェクトを推進**。金融・製造・公共など高ガバナンス領域でも、継続的デリバリー体制の確立により開発サイクル短縮とコスト最適化を実現。  
+- **GitHub Copilot 導入 PoC を主導**し、生成 AI 活用ポリシーとトレーニングプログラムを整備。安全かつ効率的な AI‑Assisted SDLC を組織に展開。  
+- **Azure DevOps／GitHub Advanced Security を活用したシフトレフト体制**を設計し、SCA・SAST・Secret Scanning をパイプラインへ統合してセキュリティ検出を自動化。  
+- GitHub Japanとのアライアンスを契機に、**運用ガイド／監査ログ収集 SaaS／Copilot 利用メトリクス基盤**などのオファリングを開発し、社内外の開発チームへ展開。  
+- コミュニティ登壇。公式ブログ連載や AZ‑400 対策書籍の執筆を通じ、最新の DevOps 実践知を発信。
 
 **「技術勝利＝ビジネス成果」** を信条に、Azure App Innovation & DevOps 領域でお客様のクラウド価値最大化と開発者体験向上を実現します。
 
