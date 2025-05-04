@@ -64,13 +64,15 @@ Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps�
 ---
 
 ### 株式会社システムズプランニング：2006 / 04 〜 2018 / 01
-### オンプレミスを主軸としたアーキテクトへ（2015/01 〜 2018/01）
-### Database／Application Engineer（Team Sub Lead → Lead）
+#### オンプレミスを主軸としたアーキテクトへ（2015/01 〜 2018/01）
+##### Database／Application Engineer（Team Sub Lead → Lead）
 - オンプレ → Azure マイグレーション提案、SQL Server／PostgreSQL DBA, CakePHP 開発リード
 - 製造業向け DB 物理設計リード（200+ テーブル）
 
-### キャリア形成期（2006 〜 2014）
-### VB.NET / PL SQL / VBA –  Web & 業務アプリ開発（Member → Sub Lead）
+---
+
+#### キャリア形成期（2006 〜 2014）
+##### VB.NET / PL SQL / VBA –  Web & 業務アプリ開発（Member → Sub Lead）
 
 - **防災監視システム（官公庁、2012‑2013）**
   - VB.NET＋SQL Server でリアルタイム監視 Web を構築。並列処理チューニングでスループット 3 倍を達成
