@@ -1,7 +1,8 @@
 # 長田 豊 (Yutaka Osada)
 
 ## 連絡先
-- Email: union.dml@gmail.com
+- Email: `union.dml@gmail.com`
+
 
 ## SNS
 - GitHub: https://github.com/yutaka-art
@@ -28,7 +29,7 @@ Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps�
 ### アバナード株式会社 (Avanade Japan)：2018 / 02 〜 現在
 #### Manager, DevOps Engineering（2024 / 05 〜 現在）
 **役割：** DevOps Engineer／Delivery Lead／プリセールス
-- **GitHub Enterprise Cloud 運用ガイドライン策定（製造業, 2024）**
+- **GitHub Enterprise Cloud 運用ガイドライン策定（機械業, 2024）**
   - 請求・監査・セキュリティポリシーの体系化
   - CxO 含む全ステークホルダー向けワークショップを主催し技術的信頼を獲得
 - **Azure × GitHub オファリング開発（2025）**
