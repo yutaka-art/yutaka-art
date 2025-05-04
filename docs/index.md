@@ -9,7 +9,7 @@
 - LinkedIn: https://www.linkedin.com/in/yutaka-osada0922/
 - X: https://x.com/YoutanDml
 
-## サマリー
+## サマリ
 Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps／DevSecOps プラットフォームの戦略策定から運用定着までを一気通貫でリードする DevOps Engineer／Solution Architect**
 
 - **プリセールス〜PoC〜本番展開**の全工程を指揮し、金融・製造・公共など厳格なガバナンスが求められる業界において **開発リードタイムを最長 30 % 短縮、TCO を 10 % 以上削減**
@@ -95,36 +95,28 @@ VB.NET／PL SQL／VBA による Web／業務アプリ開発、リード経験�
 - 大正大学 人間学部 仏教学科 専攻 (2006年3月修了)
 
 ## コミュニティ・社外活動（抜粋）
-- DevOpsDays Tokyo 2025（2025/04/15）
+### 登壇
+- DevOpsDays Tokyo 2025（2025/04/15）<br>
+「GitHub監査ログを活用したエンタープライズ向けセキュリティ強化とデータ分析基盤の構築」<br>
+https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu
 
-「GitHub監査ログを活用したエンタープライズ向けセキュリティ強化とデータ分析基盤の構築」
+- JPM365DEV（2025/03/25）<br>
+「Logic Apps / Power Automate の SharePoint コネクタの裏側を知る 〜Graph APIで直接操作してみよう〜」Mbr>
+https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou
 
-  - https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu
+- GitHub Dockyard（2025-02-25）<br>
+「GitHub監査ログ×クラウド分析で実現するエンタープライズセキュリティ強化」<br>
+https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua
 
-- JPM365DEV（2025/03/25）
+- TFSUG（2024/12/14）<br>
+「Azure PipelinesによるCI/CDとデータベースデプロイの実践」<br>
+https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian
 
-「Logic Apps / Power Automate の SharePoint コネクタの裏側を知る 〜Graph APIで直接操作してみよう〜」
+- Visual Studio Users Community Japan（2024/11/30）<br>
+「Azure DevOps REST API活用とセキュリティのベストプラクティス-Workload Identity Federationのメリット」<br>
+https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto
 
-  - https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou
-
-- GitHub Dockyard（2025-02-25）
-
-「GitHub監査ログ×クラウド分析で実現するエンタープライズセキュリティ強化」
-
-  - https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua
-
-- TFSUG（2024/12/14）
-
-「Azure PipelinesによるCI/CDとデータベースデプロイの実践」
-
-  - https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian
-
-- Visual Studio Users Community Japan（2024/11/30）
-
-「Azure DevOps REST API活用とセキュリティのベストプラクティス-Workload Identity Federationのメリット」
-  - https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto
-
-## 執筆
+### 執筆
 - 技術ブログ（Zenn）: https://zenn.dev/yutakaosada
 - 書籍執筆中: AZ-400 試験対策書籍（執筆中）
 
