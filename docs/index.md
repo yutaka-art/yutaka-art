@@ -14,8 +14,7 @@ Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps�
 
 - **プリセールス〜PoC〜本番展開**の全工程を指揮し、金融・製造・公共など厳格なガバナンスが求められる業界において **開発リードタイムを最長 30 % 短縮、TCO を 10 % 以上削減**
 - **GitHub Copilot と Azure OpenAI** を組み合わせた *AI‑Assisted SDLC* モダナイゼーションを推進し、コード品質指標（CQA）を平均 20 % 向上。
-- **Azure DevOps／GitHub Advanced Security＋Microsoft Entra ID** で Zero‑Trust 開発環境を設計
-- GitHub Japan・Microsoft 本社とのアライアンスを契機に **運用ガイド／監査ログ SaaS／Copilot メトリクス基盤** を開発し、社内外に展開。
+- GitHub Japanとのアライアンスを契機に **運用ガイド／監査ログ SaaS／Copilot メトリクス基盤** を開発し、社内外に展開。
 
 **「技術勝利＝ビジネス成果」** を信条に、Azure App Innovation & DevOps 領域でお客様のクラウド価値最大化と開発者体験向上を実現します。
 
@@ -65,12 +64,23 @@ Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps�
 ### 株式会社システムズプランニング：2015 / 01 〜 2018 / 01  
 #### Database／Application Engineer（Team Sub Lead → Lead）
 - オンプレ → Azure マイグレーション提案、SQL Server／PostgreSQL DBA, CakePHP 開発
-- 大規模タイヤ製造業向け DB 物理設計リード（200+ テーブル）
+- 製造業向け DB 物理設計リード（200+ テーブル）
 
 ---
 
 ### 早期キャリア（2006 〜 2014）  
-VB.NET／PL SQL／VBA による Web／業務アプリ開発、リード経験。要件定義〜運用保守まで一貫対応
+### VB.NET / PL SQL / VBA –  Web & 業務アプリ開発（Member → Sub Lead）
+
+- **防災監視システム（官公庁、2012‑2013）**  
+  - VB.NET＋SQL Server でリアルタイム監視 Web を構築。並列処理チューニングでスループット 3 倍を達成。
+  - 8 名チームのサブリードとして要件定義〜導入、現地展開（四国・北陸・九州）まで担当。
+
+- **在庫管理システム刷新（食品工場、2009‑2010）**  
+  - PL/SQL＋VB.NET で 400 画面規模を担当。
+  - 入庫割付機能設計、データ移行（500 万行）のバルクロジックを実装
+
+- **販売管理 Web 化（百貨店、2008）**  
+  - Spread コンポーネント活用で UX を改善し、レポート作成時間を短縮
 
 ---
 
