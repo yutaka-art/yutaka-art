@@ -12,16 +12,16 @@
 ## サマリ
 Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps／DevSecOps プラットフォームの戦略策定から運用定着までを一気通貫でリードする DevOps Engineer／Solution Architect**
 
-- **プリセールス〜PoC〜本番展開まで 数種類のプロジェクトを推進**。金融・製造・公共など高ガバナンス領域でも、継続的デリバリー体制の確立により開発サイクル短縮とコスト最適化を実現。  
-- **GitHub Copilot 導入 PoC を主導**し、生成 AI 活用ポリシーとトレーニングプログラムを整備。安全かつ効率的な AI‑Assisted SDLC を組織に展開。  
-- **Azure DevOps／GitHub Advanced Security を活用したシフトレフト体制**を設計し、SCA・SAST・Secret Scanning をパイプラインへ統合してセキュリティ検出を自動化。  
-- GitHub Japanとのアライアンスを契機に、**運用ガイド／監査ログ収集 SaaS／Copilot 利用メトリクス基盤**などのオファリングを開発し、社内外の開発チームへ展開。  
+- **プリセールス〜PoC〜本番展開まで 数種類のプロジェクトを推進**。金融・製造・公共など高ガバナンス領域でも、継続的デリバリー体制の確立により開発サイクル短縮とコスト最適化を実現。
+- **GitHub Copilot 導入 PoC を主導**し、生成 AI 活用ポリシーとトレーニングプログラムを整備。安全かつ効率的な AI‑Assisted SDLC を組織に展開。
+- **Azure DevOps／GitHub Advanced Security を活用したシフトレフト体制**を設計し、SCA・SAST・Secret Scanning をパイプラインへ統合してセキュリティ検出を自動化。
+- GitHub Japanとのアライアンスを契機に、**運用ガイド／監査ログ収集 SaaS／Copilot 利用メトリクス基盤**などのオファリングを開発し、社内外の開発チームへ展開。
 - コミュニティ登壇。公式ブログ連載や AZ‑400 対策書籍の執筆を通じ、最新の DevOps 実践知を発信。
 
 **「技術勝利＝ビジネス成果」** を信条に、Azure App Innovation & DevOps 領域でお客様のクラウド価値最大化と開発者体験向上を実現します。
 
 ## 主要スキルセット
-- Microsoft Azure（App Service／Container Apps／Azure Kubernetes Service／Functions／Monitor ほか）
+- Microsoft Azure（App Service／Container Apps／Azure Kubernetes Service／Functions／Monitor／Logic Apps／Data Factory ほか）
 - Azure DevOps／GitHub Enterprise Cloud／GitHub Copilot／GitHub Advanced Security
 - DevOps／DevSecOps プラットフォーム設計・導入・ガバナンス
 - C#／VB.NET／Java／T-SQL
@@ -101,9 +101,6 @@ Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps�
 - METI (Japan)-AP/Applied Information Technology Engineer
 - METI (Japan)-FE/Fundamental Information Technology Engineer
 
-## 受賞歴（Awards）
-- なし
-
 ## 最終学歴
 - 大正大学 人間学部 仏教学科 専攻 (2006年3月修了)
 
@@ -124,31 +121,37 @@ Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps�
       <td>2025/04/15</td>
       <td>DevOpsDays Tokyo 2025</td>
       <td>GitHub監査ログを活用したエンタープライズ向けセキュリティ強化とデータ分析基盤の構築</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu" target="_blank">資料</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu" target="_blank">https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu</a></td>
     </tr>
     <tr>
       <td>2025/03/25</td>
       <td>JPM365DEV</td>
       <td>Logic Apps / Power Automate の SharePoint コネクタの裏側を知る 〜Graph APIで直接操作してみよう〜</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou" target="_blank">資料</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou" target="_blank">https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou</a></td>
     </tr>
     <tr>
       <td>2025/02/25</td>
       <td>GitHub Dockyard</td>
       <td>GitHub監査ログ×クラウド分析で実現するエンタープライズセキュリティ強化</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua" target="_blank">資料</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua" target="_blank">https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua</a></td>
     </tr>
     <tr>
       <td>2024/12/14</td>
       <td>TFSUG</td>
       <td>Azure PipelinesによるCI/CDとデータベースデプロイの実践</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian" target="_blank">資料</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian" target="_blank">https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian</a></td>
     </tr>
     <tr>
       <td>2024/11/30</td>
       <td>Visual Studio Users Community Japan</td>
       <td>Azure DevOps REST API活用とセキュリティのベストプラクティス - Workload Identity Federationのメリット</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto" target="_blank">資料</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto" target="_blank">https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto</a></td>
+    </tr>
+    <tr>
+      <td>2024/07/16</td>
+      <td>Japan Azure Users Group</td>
+      <td>Azure Pipelinesを使用したCICDベースラインアーキテクチャ実践</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian" target="_blank">https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian</a></td>
     </tr>
   </tbody>
 </table>
@@ -161,4 +164,4 @@ Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps�
 
 
 ## その他
-- 過去の登壇スライドまとめ: https://speakerdeck.com/yutakaosada
+- 過去の登壇スライドまとめ: <a href="https://speakerdeck.com/yutakaosada" target="_blank">https://speakerdeck.com/yutakaosada</a></li>
