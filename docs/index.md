@@ -10,56 +10,70 @@
 - X: https://x.com/YoutanDml
 
 ## サマリ
-Microsoft Azure と GitHub Enterprise／Azure DevOps を核に **DevOps／DevSecOps プラットフォームの戦略策定から運用定着までを一気通貫でリードする DevOps Engineer／Solution Architect**
+Microsoft Azure × GitHub Enterprise に精通し、**エンタープライズ向け DevOps／DevSecOps プラットフォームの構想策定から運用定着までを統括するエンジニアリングリーダー**。
 
-- **プリセールス〜PoC〜本番展開まで 数種類のプロジェクトを推進**。金融・製造・公共など高ガバナンス領域でも、継続的デリバリー体制の確立により開発サイクル短縮とコスト最適化を実現。
-- **GitHub Copilot 導入 PoC を主導**し、生成 AI 活用ポリシーとトレーニングプログラムを整備。安全かつ効率的な AI‑Assisted SDLC を組織に展開。
-- **Azure DevOps／GitHub Advanced Security を活用したシフトレフト体制**を設計し、SCA・SAST・Secret Scanning をパイプラインへ統合してセキュリティ検出を自動化。
-- GitHub Japanとのアライアンスを契機に、**運用ガイド／監査ログ収集 SaaS／Copilot 利用メトリクス基盤**などのオファリングを開発し、社内外の開発チームへ展開。
-- コミュニティ登壇。公式ブログ連載や AZ‑400 対策書籍の執筆を通じ、最新の DevOps 実践知を発信。
-
-**「技術勝利＝ビジネス成果」** を信条に、Azure App Innovation & DevOps 領域でお客様のクラウド価値最大化と開発者体験向上を実現します。
+- **バックエンド開発者 ▶ 開発リード・アーキテクト ▶ ソリューションアーキテクト ▶ デリバリリード** と段階的にキャリアアップし、クラウドネイティブDevOps Platform のソリューショニングを専門とする。
+- 複数業種に対し、**Azure PaaS × DevOps Platform（GitHub／Azure DevOps）** による開発プラットフォームのモダナイゼーション戦略を策定し、PoC 主導 → 標準化 → 運用拡張まで一貫支援。
+- 近年は **AI Assisted SDLC & DevOps** のソリューションアーキテクトとして、GitHub Copilot メトリクス可視化や GitHub 監査ログ継続監視などのアセットを設計し、生成 AI 時代の SDLC 改革と可観測性強化に注力。
+- 社内では DevOps Engineering ManagerとしてDevOpsの技術プラクティスやAzure Container Apps, Azure Kubernetes Servicesなどのコンテナ技術の活用に関する社内勉強会を定期的に開催し、DevOpsエンジニアの育成に尽力。社外でも技術コミュニティ/カンファレンスへの登壇・書籍執筆・技術ブログ執筆を通じてDevOpsの社会実装と実践知の社会還元にも取り組んでいる。
 
 ## 主要スキルセット
-- Microsoft Azure（App Service／Container Apps／Azure Kubernetes Service／Functions／Monitor／Logic Apps／Data Factory ほか）
-- Azure DevOps／GitHub Enterprise Cloud／GitHub Copilot／GitHub Advanced Security
-- DevOps／DevSecOps プラットフォーム設計・導入・ガバナンス
-- C#／VB.NET／Java／T-SQL
+- **Microsoft Azure**
+  - Azure Kubernetes Service (AKS)
+  - Azure Container Apps / Azure Container Registry
+  - Azure Functions / Durable Functions
+  - Azure App Service / Static Web Apps
+  - Azure Monitor / Application Insights / Log Analytics
+  - Azure Key Vault / Microsoft Entra ID
+  - Azure Logic Apps / Data Factory
+- **DevOps Platform**
+  - GitHub Enterprise Cloud / GitHub Copilot / GitHub Advanced Security
+  - Azure DevOps (Repos・Pipelines・Boards)
+- **プラクティス／言語など**
+  - DevOps／DevSecOps ガバナンス設計・導入、IaC (Bicep/Terraform)
+  - C#／.NET Core‑8、VB.NET、Java、T‑SQL、CakePHP
+  - アジャイル／スクラム、CI/CD、SRE、可観測性
 
 ## 職務経歴
 ### アバナード株式会社 (Avanade Japan)：2018 / 02 〜 現在
 #### Manager, DevOps Engineering（2024 / 05 〜 現在）
-**役割：** DevOps Engineer／Delivery Lead／プリセールス
-- **GitHub Enterprise Cloud 運用ガイドライン策定（機械業, 2024）**
-  - 請求・監査・セキュリティポリシーの体系化
-  - CxO 含む全ステークホルダー向けワークショップを主催し技術的信頼を獲得
-- **Azure × GitHub オファリング開発（2025）**
-  - 監査ログ収集／Copilot 利用状況メトリクス SaaS の PoC→社内カタログ化
-  - GitHub Japan/Australia と協業し NFR 契約締結、案件創出パイプラインを 1.5 倍に拡大
+**役割：** DevOps Engineer｜Delivery Lead｜ソリューションアーキテクト
+- **GitHub Enterprise Cloud 運用ガイドライン策定（製造業・2024）**
+  - 請求・監査・セキュリティポリシーを体系化しワークショップで全ステークホルダー合意を取得。
+- **Azure Monitor × Container Apps で実現する “AuditWatch”**
+  - Azure Monitor×Azure Conatiner Appsを用いたGitHub Enterpriseの監査ログの継続的監視、フィードバック基盤構築
+- **GitHub Actions × Static Web Apps による “Copilot Insight”**
+  - Copilot 利用メトリクスを GitHub API 経由で取得し、Blazor WebAssembly で可視化。社内カタログ掲載済み。
 
-**主な技術スタック：** Azure Monitor, Functions, Container Apps, GitHub API, .NET 8, Bicep
+**主な技術スタック：** Azure Monitor, Azure Container Apps, Azure Data Explorer, GitHub API, Static Web Apps, .NET 8, Bicep
 
 ---
 
 #### Sr. Consultant, DevOps Engineering（2021 / 12 〜 2024 / 05）
-**役割：** Team Unit Lead／Solution Architect
+**役割：** Team Unit Lead｜Solution Architect
 - **事業会社向け 開発標準基盤構築（2024）**
-  - Azure DevOps & Dynamics 365 PO を中核に 10 名スクラムをリード。
-  - 2 週間スプリントで MVP→運用移行、Azure Monitor で MTTR を 40% 削減。
-- **通信業向け Sitecore×Salesforce 連携 Web 基盤（2023）**
-  - Azure Boards で 20 名オフショアを可視化しバーンダウン改善率 30%。
+  - Azure DevOps & Dynamics 365 Project Operations を中核に 10 名スクラムをリード。
+  - PO・ステークホルダーと信頼関係を構築し **by‑name** で継続アサイン希望を獲得、後続案件の機会創出に貢献。
+  - DevOps Engineer ユニットを率い、Azure Functions で Redmine／JIRA と D365 PO を自動連携しタスク一元管理を実装。
+- **通信業向け Sitecore × Salesforce 連携 Web 基盤（2023）**
+  - バックエンドエンジニアリードとして API 実装と進捗管理を担当。
+  - DevOps 面では **GitFlow 派生のブランチ戦略設計**、Pull‑Request 用 Azure Pipelines 自動ビルド／マージ承認を整備。
+  - Azure Boards とアジャイルプラクティス導入でチームベロシティを向上し、オフショア 20 名との協働を円滑化。
 - **製造業向け 生産管理システム刷新（2022）**
-  - AKS 案を Container Apps 提案へ転換し TCO 35% 削減を実現。
+  - AKS 案を Azure Container Apps に切り替えコストと運用負荷を抑制。
 
-**主な技術スタック：** App Service, ACR, Key Vault, Application Insights, Logic Apps, IaC(Bicep)
+**主な技術スタック：** Azure DevOps, Azure Functions, D365 Project Operations, Sitecore, Salesforce API, Azure Container Apps, Key Vault, Application Insights, Bicep
 
 ---
 
-#### Consultant（2018 / 02 〜 2021 / 11）  
-**実績ハイライト**  
-- COVID‑19 感染統計基盤（Azure Durable Functions で月間コスト 30% 削減）
-- IoT PoC （製造業）で Edge ⇄ Azure 双方向通信を .NET Core で実装
-- Sitecore CMS 移行、性能試験（JMeter）と Azure App Insights によるボトルネック解消
+#### Consultant（2018 / 02 〜 2021 / 11）
+**クラウドネイティブへの視野拡大期 – Azure を積極活用し DevOps 基盤の礎を構築**
+- **COVID‑19 感染統計基盤（公共・2020）**
+  - Azure Durable Functions／Cosmos DB でデータ収集パイプラインを構築し、従来の ETL に比べランニングコストを削減。
+- **製造業 IoT PoC（2019）**
+  - .NET Core で Edge ⇄ Azure 連携を実装し、Factory IoT データをリアルタイム可視化。クラウド採用の意思決定に寄与。
+- **総合電機メーカー CMS 移行 & パフォーマンステスト（2018‑2019）**
+  - JMeter で負荷シナリオを自動化し、Azure App Service + App Insights を用いたボトルネック解析をリード。
 
 ---
 
