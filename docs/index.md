@@ -10,7 +10,7 @@
 - X: https://x.com/YoutanDml
 
 ## サマリ
-Microsoft Azure × GitHub Enterprise に精通し、**エンタープライズ向け DevOps／DevSecOps プラットフォームの構想策定から運用定着までを統括するエンジニアリングリーダー**。
+Microsoft Azure × GitHub Enterprise に精通し、**エンタープライズ向け DevOps／DevSecOps プラットフォームの構想策定から運用定着までを統括するエンジニアリングリーダー**
 
 - **バックエンド開発者 ▶ 開発リード・アーキテクト ▶ ソリューションアーキテクト ▶ デリバリリード** と段階的にキャリアアップし、クラウドネイティブDevOps Platform のソリューショニングを専門とする。
 - 複数業種に対し、**Azure PaaS × DevOps Platform（GitHub／Azure DevOps）** による開発プラットフォームのモダナイゼーション戦略を策定し、PoC 主導 → 標準化 → 運用拡張まで一貫支援。
@@ -166,6 +166,12 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
       <td>Japan Azure Users Group</td>
       <td>Azure Pipelinesを使用したCICDベースラインアーキテクチャ実践</td>
       <td><a href="https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian" target="_blank">https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian</a></td>
+    </tr>
+    <tr>
+      <td>2024/01/27</td>
+      <td>TFSUG</td>
+      <td>マルチテナントでのサービスコネクションを使用したAzure DevOps⇔Azure でのデプロイ実践</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/marutitenantodenosabisukonekusiyonwoshi-yong-sitaazure-devops-equals-azure-denodepuroishi-jian" target="_blank">https://speakerdeck.com/yutakaosada/marutitenantodenosabisukonekusiyonwoshi-yong-sitaazure-devops-equals-azure-denodepuroishi-jian</a></td>
     </tr>
   </tbody>
 </table>
