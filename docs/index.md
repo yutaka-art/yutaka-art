@@ -3,12 +3,10 @@
 ## 連絡先
 - Email: `union.dml@gmail.com`
 
-
 ## SNS
 - GitHub: <a href="https://github.com/yutaka-art" target="_blank">https://github.com/yutaka-art</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/yutaka-osada0922/" target="_blank">https://www.linkedin.com/in/yutaka-osada0922/</a>
 - X: <a href="https://x.com/YoutanDml" target="_blank">https://x.com/YoutanDml</a>
-
 
 ## サマリ
 Microsoft Azure × GitHub Enterprise に精通し、**エンタープライズ向け DevOps／DevSecOps プラットフォームの構想策定から運用定着までを統括するエンジニアリングリーダー**
