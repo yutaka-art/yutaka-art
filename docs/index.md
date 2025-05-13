@@ -5,9 +5,10 @@
 
 
 ## SNS
-- GitHub: https://github.com/yutaka-art
-- LinkedIn: https://www.linkedin.com/in/yutaka-osada0922/
-- X: https://x.com/YoutanDml
+- GitHub: <a href="https://github.com/yutaka-art" target="_blank">https://github.com/yutaka-art</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/yutaka-osada0922/" target="_blank">https://www.linkedin.com/in/yutaka-osada0922/</a>
+- X: <a href="https://x.com/YoutanDml" target="_blank">https://x.com/YoutanDml</a>
+
 
 ## サマリ
 Microsoft Azure × GitHub Enterprise に精通し、**エンタープライズ向け DevOps／DevSecOps プラットフォームの構想策定から運用定着までを統括するエンジニアリングリーダー**
@@ -102,6 +103,7 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 ---
 
 ## 資格・認定（Certifications）
+- GitHub Certified: GitHub Advanced Security
 - GitHub Certified: GitHub Actions
 - GitHub Certified: GitHub Administration
 - GitHub Certified: GitHub Foundations
@@ -109,7 +111,7 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Developer Associate
-- MCSD: App Builde
+- MCSD: App Builder
 - MCSA: Web Application
 - METI (Japan)-SA/System Architect
 - METI (Japan)-AP/Applied Information Technology Engineer
