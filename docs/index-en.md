@@ -1,5 +1,7 @@
 ➡️ [日本語はこちら](./index.md)
 
+## Yutaka Osada(長田 豊)
+
 ## Contact
 - Email: `union.dml@gmail.com`
 
