@@ -1,5 +1,7 @@
 # 長田 豊 (Yutaka Osada)
 
+➡️ [View in English](./index-en.md)
+
 ## 連絡先
 - Email: `union.dml@gmail.com`
 
@@ -32,7 +34,7 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
   - Azure DevOps (Repos・Pipelines・Boards)
 - **プラクティス／言語など**
   - DevOps／DevSecOps ガバナンス設計・導入、IaC (Bicep/Terraform)
-  - C#／.NET Core‑8、VB.NET、Java、T‑SQL、CakePHP
+  - C#／.NET Core‑8、VB.NET、Java、T‑SQL、Bicep
   - アジャイル／スクラム、CI/CD、SRE、可観測性
 
 ## 職務経歴
