@@ -184,4 +184,4 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 
 
 ## その他
-- 過去の登壇スライドまとめ: <a href="https://speakerdeck.com/yutakaosada" target="_blank">https://speakerdeck.com/yutakaosada</a></li>
+- 過去の登壇スライドまとめ: <a href="https://speakerdeck.com/yutakaosada" target="_blank">https://speakerdeck.com/yutakaosada</a>

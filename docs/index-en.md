@@ -79,7 +79,7 @@ Engineering leader with deep expertise in **Microsoft Azure × GitHub Enterprise
 ### Systems Planning Co., Ltd. — Apr 2006 – Jan 2018
 #### Architect Focused on On-Premises (Jan 2015 – Jan 2018)  
 ##### Database / Application Engineer (Team Sub-Lead → Lead)  
-- Proposed on-prem to Azure migrations; SQL Server / PostgreSQL DBA; led CakePHP development.  
+- Proposed on-premises to Azure migrations; SQL Server / PostgreSQL DBA; led CakePHP development.  
 - Led physical DB design for manufacturing (200+ tables).  
 
 ---
@@ -131,7 +131,7 @@ Engineering leader with deep expertise in **Microsoft Azure × GitHub Enterprise
     <tr>
       <td>2025-04-15</td>
       <td>DevOpsDays Tokyo 2025</td>
-      <td>Strengthening Enterprise Security and Building a Data Analytics Platform Using GitHub Audit Logs</td>
+      <td>Empowering Enterprise Security and Building a Data Analytics Platform Using GitHub Audit Logs</td>
       <td><a href="https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu" target="_blank">Link</a></td>
     </tr>
     <tr>
