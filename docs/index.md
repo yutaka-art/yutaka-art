@@ -1,5 +1,3 @@
-# 長田 豊 (Yutaka Osada)
-
 ➡️ [View in English](./index-en.md)
 
 ## 連絡先

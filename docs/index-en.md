@@ -1,5 +1,3 @@
-# Yutaka Osada
-
 ➡️ [日本語はこちら](./index.md)
 
 ## Contact
