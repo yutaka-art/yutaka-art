@@ -101,6 +101,7 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 ---
 
 ## 資格・認定（Certifications）
+- GitHub Certified: GitHub Copilot
 - GitHub Certified: GitHub Advanced Security
 - GitHub Certified: GitHub Actions
 - GitHub Certified: GitHub Administration

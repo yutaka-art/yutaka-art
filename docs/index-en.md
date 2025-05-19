@@ -98,10 +98,11 @@ Engineering leader with deep expertise in **Microsoft Azure × GitHub Enterprise
 ---
 
 ## Certifications
-- GitHub Certified: GitHub Advanced Security  
-- GitHub Certified: GitHub Actions  
-- GitHub Certified: GitHub Administration  
-- GitHub Certified: GitHub Foundations  
+- GitHub Certified: GitHub Copilot
+- GitHub Certified: GitHub Advanced Security
+- GitHub Certified: GitHub Actions
+- GitHub Certified: GitHub Administration
+- GitHub Certified: GitHub Foundations
 - Microsoft Certified: Azure Solutions Architect Expert  
 - Microsoft Certified: Azure Administrator Associate  
 - Microsoft Certified: DevOps Engineer Expert  
