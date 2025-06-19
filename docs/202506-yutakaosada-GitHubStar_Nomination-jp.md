@@ -2,7 +2,7 @@
 ## 連絡先情報
 - X: @YoutanDml (https://x.com/YoutanDml)
 - LinkedIn: https://www.linkedin.com/in/yutaka-osada0922/
-- Zenn（技術ブログ）: https://zenn.dev/yutakaosada
+- Zenn（技術ブログ）: https://zenn.dev/yutakaosada/
 - GitHub: https://github.com/yutaka-art
 
 ## SpeakerDeck（スライドアーカイブ）
