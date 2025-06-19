@@ -1,13 +1,14 @@
-# Contact Information
+# GitHubStar_Nomination
+## Contact Information
 - X: @YoutanDml (https://x.com/YoutanDml)
 - LinkedIn: https://www.linkedin.com/in/yutaka-osada0922/
 - Zenn (my techblogs): https://zenn.dev/yutakaosada
 - GitHub: https://github.com/yutaka-art
 
-# SpeakerDeck (archive of my slides)
+## SpeakerDeck (archive of my slides)
 https://speakerdeck.com/yutakaosada
 
-# Why do you want to be a GitHub Star?
+## Why do you want to be a GitHub Star?
 I want to become a GitHub Star because my professional mission is to turn complex DevOps theory into practical, repeatable workflows that any team can adopt.
 As a DevOps Engineer and community speaker in Japan, I specialise in Infrastructure as Code, multi-stage CI/CD pipelines, and secure developer platforms on GitHub and Azure. Over the past year I have:
 
@@ -18,9 +19,9 @@ As a DevOps Engineer and community speaker in Japan, I specialise in Infrastruct
 
 Becoming a GitHub Star would amplify these initiatives, giving me direct feedback loops with the GitHub product team and a global network of Stars. Together we can accelerate best-practice adoption for IaC and pipeline automation, raise the bar for developer experience in regulated industries, and inspire the next wave of open-source contributors in Japan and beyond.
 
-# Records of my accomplishments over the past 12 months
+## Records of my accomplishments over the past 12 months
 
-## Speaking Contributions
+### Speaking Contributions
 1. Speaker at DevOps Days Tokyo 2025 – “Fortifying Enterprise Security with GitHub Audit Logs & Azure-Based Analytics Platform”
 
 - Date: April 15, 2025
@@ -45,7 +46,7 @@ Becoming a GitHub Star would amplify these initiatives, giving me direct feedbac
 - Slide link: https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua
 - YouTube: https://www.youtube.com/live/V020w8w8MwI?si=taSLNhnHIGNPh1hp
 
-## Blog post contributions
+### Blog post contributions
 1. Blog Post – “Unpacking GitHub Copilot’s New Premium Models & Request Quotas”
 
 - Date: June 19, 2025
@@ -109,7 +110,7 @@ Becoming a GitHub Star would amplify these initiatives, giving me direct feedbac
   - Provides screenshots of each Metrics Viewer dashboard (Acceptance Rate, Total Suggestions/Acceptances, Language Breakdown, Copilot Chat, Seat Analytics) and explains how teams can track adoption, active users, and ROI (target acceptance ≈ 30%).  
   - Concludes with best-practice tips for secure token handling, using mocked data in dev (`VUE_APP_MOCKED_DATA=true`), and extending the solution with other Azure services.
 
-## OSS Project Contribution
+### OSS Project Contribution
 1. Azure Durable Functions Worker Example for Zenn Article
 - Date: January 22, 2025
 - Link: https://github.com/yutaka-art/DurableFunction_Worker

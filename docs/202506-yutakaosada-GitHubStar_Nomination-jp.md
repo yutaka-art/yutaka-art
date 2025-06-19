@@ -1,13 +1,14 @@
-# 連絡先情報
+# GitHubStar_Nomination
+## 連絡先情報
 - X: @YoutanDml (https://x.com/YoutanDml)
 - LinkedIn: https://www.linkedin.com/in/yutaka-osada0922/
 - Zenn（技術ブログ）: https://zenn.dev/yutakaosada
 - GitHub: https://github.com/yutaka-art
 
-# SpeakerDeck（スライドアーカイブ）
+## SpeakerDeck（スライドアーカイブ）
 https://speakerdeck.com/yutakaosada
 
-# なぜGitHub Starになりたいのか？
+## なぜGitHub Starになりたいのか？
 私のプロフェッショナルな使命は、複雑なDevOps理論を、どのチームでも採用できる実践的かつ再現可能なワークフローへと変換することです。そのため、GitHub Starになりたいと考えています。
 私は日本のDevOpsエンジニア・コミュニティスピーカーとして、Infrastructure as Code、マルチステージCI/CDパイプライン、GitHubとAzure上でのセキュアな開発者プラットフォームを専門としています。過去1年間で以下の活動を行いました。
 
@@ -18,9 +19,9 @@ https://speakerdeck.com/yutakaosada
 
 GitHub Starになることで、これらの取り組みをさらに拡大し、GitHubプロダクトチームや世界中のStarとの直接的なフィードバックループを得られます。IaCやパイプライン自動化のベストプラクティス普及を加速し、規制業界の開発者体験を向上させ、日本およびグローバルなOSS貢献者の新しい波を生み出したいと考えています。
 
-# 過去12ヶ月の主な実績
+## 過去12ヶ月の主な実績
 
-## 登壇実績
+### 登壇実績
 1. DevOps Days Tokyo 2025登壇 – 「GitHub監査ログ×Azure分析基盤によるエンタープライズセキュリティ強化」
 
 - 日時: 2025年4月15日
@@ -45,7 +46,7 @@ GitHub Starになることで、これらの取り組みをさらに拡大し、
 - スライド: https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua
 - YouTube: https://www.youtube.com/live/V020w8w8MwI?si=taSLNhnHIGNPh1hp
 
-## ブログ寄稿
+### ブログ寄稿
 1. 「GitHub Copilotの新しいPremiumモデルとリクエスト上限を徹底解説」
 
 - 日時: 2025年6月19日
@@ -108,7 +109,7 @@ GitHub Starになることで、これらの取り組みをさらに拡大し、
   - 各種ダッシュボード（Acceptance Rate、Total Suggestions/Acceptances、Language Breakdown、Copilot Chat、Seat Analytics）のスクリーンショットと、採用率・ROI（目標30%）の可視化方法を紹介
   - セキュアなトークン管理、開発時のモックデータ利用（`VUE_APP_MOCKED_DATA=true`）、Azureサービス連携拡張のベストプラクティスも掲載
 
-## OSSプロジェクト貢献
+### OSSプロジェクト貢献
 1. Zenn記事向けAzure Durable Functions Workerサンプル
 - 日時: 2025年1月22日
 - リンク: https://github.com/yutaka-art/DurableFunction_Worker
