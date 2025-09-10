@@ -20,6 +20,7 @@ Hi, I'm Azure solution developer and devops engineer. 💻
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats-omega-two-85.vercel.app/api?username=yutaka-art&show_icons=true" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-omega-two-85.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
+  <img alt="Streak Stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=yutaka-art&" />
 </p>
 
 [![trophy](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=7)](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=7)
