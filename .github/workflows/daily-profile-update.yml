@@ -1,4 +1,4 @@
-name: Main
+name: GitHub-Daily-Profile-Update
 on:
   # run automatically every 24 hours
   schedule:

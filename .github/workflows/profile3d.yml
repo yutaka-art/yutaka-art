@@ -1,4 +1,4 @@
-name: generate 3d chart for profile contributions
+name: Generate-3d-Chart-for-Profile-Contributions
 
 on:
   # run automatically every 24 hours
@@ -31,4 +31,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-
