@@ -1,8 +1,8 @@
-## 🐤 About yutaka-art
+# 🐤 About yutaka-art
 Hi, I'm Azure solution developer and devops engineer. 💻
 
 ## 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=azure,cs,dotnet,visualstudio,vscode,windows,github,git,githubactions,docker,kubernetes,py,powershell,php,postman,html,js,jquery,css,vue,postgres,bootstrap,selenium,twitter,ubuntu,linux" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=azure,cs,dotnet,visualstudio,vscode,windows,github,git,githubactions,docker,kubernetes,py,powershell,php,postman,html,js,jquery,css,vue,postgres,bootstrap,selenium" />
 
 ## 📈 Stats
 <p align="left">
@@ -24,9 +24,13 @@ Hi, I'm Azure solution developer and devops engineer. 💻
 
 [![trophy](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=7)](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=7)
 
+
+<details>
+  <summary>:zap: Stats Detail</summary>
 [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</details>
 
 ## 📨 Contact me.
 **[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Portfolio Web](https://www.credly.com/users/yutaka-osada/badges)**
