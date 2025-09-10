@@ -18,11 +18,11 @@ Hi, I'm Azure solution developer and devops engineer. 💻
 </p>
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutaka-art&show_icons=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-omega-two-85.vercel.app/api?username=yutaka-art&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-omega-two-85.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yutaka-art&column=7)](https://github-profile-trophy.vercel.app/?username=yutaka-art&column=7)
+[![trophy](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=7)](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=7)
 
 [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
