@@ -15,3 +15,9 @@
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-smoky-seven.vercel.app/api/spotify" alt="yutaka-art Spotify Playing" width="350" />](https://open.spotify.com/user/yutaka-art)
+
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
+<!--START_SECTION:activity-->

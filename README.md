@@ -1,7 +1,7 @@
 ## 🐤 About yutaka-art
 Hi, I'm Azure solution developer and devops engineer. 💻
 
-### 🌱 my skills
+## 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=azure,cs,dotnet,visualstudio,vscode,windows,github,git,githubactions,docker,kubernetes,py,powershell,php,postman,html,js,jquery,css,vue,postgres,bootstrap,selenium,twitter,ubuntu,linux" />
 
 ## 📈 Stats
@@ -29,18 +29,11 @@ Hi, I'm Azure solution developer and devops engineer. 💻
 [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 📨 Contact me.
-
 **[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Portfolio Web](https://www.credly.com/users/yutaka-osada/badges)**
 
-<!--
-**yutaka-art/yutaka-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎧 Spotify Playing
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🙌 I’m looking for help with [grow-files](https://github.com/yutaka-art/grow-files) and [microcms-filter-query](https://github.com/yutaka-art/microcms-filter-query)
--->
+<!--START_SECTION:activity-->
