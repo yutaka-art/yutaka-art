@@ -35,5 +35,13 @@ Hi, I'm Azure solution developer and devops engineer. 💻
 
 [<img src="https://novatorem-smoky-seven.vercel.app/api/spotify" alt="yutaka-art Spotify Playing" width="350" />](https://open.spotify.com/user/yutaka-art)
 
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
