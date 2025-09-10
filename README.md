@@ -1,8 +1,9 @@
 # 🐤 About yutaka-art
-Hi, I'm Azure solution developer and devops engineer. 💻
+Hi, I'm an Azure solution developer and DevOps engineer. 💻
+Recipient of the GitHub Stars Award 🌟
 
 ## 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=azure,cs,dotnet,visualstudio,vscode,windows,github,git,githubactions,docker,kubernetes,py,powershell,php,postman,html,js,jquery,css,vue,postgres,bootstrap,selenium" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=azure,cs,dotnet,visualstudio,vscode,windows,github,git,githubactions,docker,kubernetes" />
 
 ## 📈 Stats
 <p align="left">
