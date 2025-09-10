@@ -31,7 +31,7 @@ Hi, I'm Azure solution developer and devops engineer. 💻
 ## 📨 Contact me.
 **[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Portfolio Web](https://www.credly.com/users/yutaka-osada/badges)**
 
-### 🎧 Spotify Playing
+## 🎧 Spotify Playing
 
 [<img src="https://novatorem-smoky-seven.vercel.app/api/spotify" alt="yutaka-art Spotify Playing" width="350" />](https://open.spotify.com/user/yutaka-art)
 
@@ -44,4 +44,3 @@ Hi, I'm Azure solution developer and devops engineer. 💻
 <!--END_SECTION:activity-->
 
 </details>
-
