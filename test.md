@@ -11,3 +11,7 @@
 
 [![Spotify](https://novatorem-smoky-seven.vercel.app/api/spotify)](https://open.spotify.com/user/yutaka-art)
 
+
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-smoky-seven.vercel.app/api/spotify" alt="yutaka-art Spotify Playing" width="350" />](https://open.spotify.com/user/yutaka-art)
