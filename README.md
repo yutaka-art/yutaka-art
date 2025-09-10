@@ -1,7 +1,7 @@
 # 🐤 About yutaka-art
 Hi, I'm an Azure solution developer and DevOps engineer. 💻
 
-Recipient of the GitHub Stars Award 🌟
+Recipient of the GitHub Stars Award (2025) 🌟
 
 ## 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=11&i=azure,cs,dotnet,visualstudio,vscode,windows,github,git,githubactions,docker,kubernetes" />
@@ -24,8 +24,7 @@ Recipient of the GitHub Stars Award 🌟
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-omega-two-85.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=7)](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=7)
-
+[![trophy](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=4&title=-Reviews)](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=4&title=-Reviews)
 
 <details>
   <summary>:zap: Stats Detail</summary>
