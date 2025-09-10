@@ -8,3 +8,6 @@
 [![trophy](https://github-profile-trophy-roan.vercel.app/?username=yutaka-art&column=7)](https://github-profile-trophy-roan.vercel.app//?username=yutaka-art&column=7)
 
 [![trophy](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=7)](https://[github-profile-trophy-roan.vercel.app](https://github-profile-trophy-sable.vercel.app/)//?username=yutaka-art&column=7)
+
+[![Spotify](https://novatorem-smoky-seven.vercel.app/api/spotify)](https://open.spotify.com/user/yutaka-art)
+
