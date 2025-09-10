@@ -36,7 +36,7 @@ Recipient of the GitHub Stars Award (2025) 🌟
 </details>
 
 ## 📨 Contact me.
-**[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Portfolio Web](https://www.credly.com/users/yutaka-osada/badges)**
+**[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Portfolio Web](https://yutaka-art.github.io/yutaka-art/index-en.html)**
 
 ## 🎧 Spotify Playing
 
