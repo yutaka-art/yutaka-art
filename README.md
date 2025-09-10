@@ -24,7 +24,7 @@ Recipient of the GitHub Stars Award (2025) 🌟
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-omega-two-85.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=4&title=-Reviews)](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=4&title=-Reviews)
+[![trophy](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=8&title=-Reviews)](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=8&title=-Reviews)
 
 <details>
   <summary>:zap: Stats Detail</summary>
