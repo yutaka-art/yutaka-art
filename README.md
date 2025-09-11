@@ -29,6 +29,7 @@ Recipient of the GitHub Stars Award (2025) 🌟
 <details>
   <summary>:zap: Stats Detail</summary>
 
+[![](./profile-3d-contrib/profile-gitblock.svg)]
 [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -48,10 +49,6 @@ Recipient of the GitHub Stars Award (2025) 🌟
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/yutaka-art/gh-migration-analyzer-custom/issues/10) in [yutaka-art/gh-migration-analyzer-custom](https://github.com/yutaka-art/gh-migration-analyzer-custom)
-2. 🎉 Merged PR [#11](https://github.com/yutaka-art/gh-migration-analyzer-custom/pull/11) in [yutaka-art/gh-migration-analyzer-custom](https://github.com/yutaka-art/gh-migration-analyzer-custom)
-3. 💪 Opened PR [#11](https://github.com/yutaka-art/gh-migration-analyzer-custom/pull/11) in [yutaka-art/gh-migration-analyzer-custom](https://github.com/yutaka-art/gh-migration-analyzer-custom)
-4. ❗ Opened issue [#10](https://github.com/yutaka-art/gh-migration-analyzer-custom/issues/10) in [yutaka-art/gh-migration-analyzer-custom](https://github.com/yutaka-art/gh-migration-analyzer-custom)
 <!--END_SECTION:activity-->
 
 </details>
