@@ -49,10 +49,10 @@ Recipient of the GitHub Stars Award (2025) 🌟
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/yutaka-art/gh-migration-analyzer-custom/issues/10) in [yutaka-art/gh-migration-analyzer-custom](https://github.com/yutaka-art/gh-migration-analyzer-custom)
-2. 🎉 Merged PR [#11](https://github.com/yutaka-art/gh-migration-analyzer-custom/pull/11) in [yutaka-art/gh-migration-analyzer-custom](https://github.com/yutaka-art/gh-migration-analyzer-custom)
-3. 💪 Opened PR [#11](https://github.com/yutaka-art/gh-migration-analyzer-custom/pull/11) in [yutaka-art/gh-migration-analyzer-custom](https://github.com/yutaka-art/gh-migration-analyzer-custom)
-4. ❗ Opened issue [#10](https://github.com/yutaka-art/gh-migration-analyzer-custom/issues/10) in [yutaka-art/gh-migration-analyzer-custom](https://github.com/yutaka-art/gh-migration-analyzer-custom)
+1. ❗ Opened issue [#3](https://github.com/yutaka-art/gh-issue-bulk-create/issues/3) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
+2. ❗ Opened issue [#2](https://github.com/yutaka-art/gh-issue-bulk-create/issues/2) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
+3. ❗ Opened issue [#1](https://github.com/yutaka-art/gh-issue-bulk-create/issues/1) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
+4. 🔒 Closed issue [#13](https://github.com/yutaka-art/yutaka-art/issues/13) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
 <!--END_SECTION:activity-->
 
 </details>
