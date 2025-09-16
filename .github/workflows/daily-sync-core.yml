@@ -7,14 +7,6 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
 
-permissions:
-  contents: write
-  actions: read
-  metadata: read
-  pull-requests: read
-  issues: read
-  repository-projects: read
-
 jobs:
   update-github-activity:
     name: Update GitHub Activity
@@ -29,7 +21,7 @@ jobs:
       - name: Update GitHub Activity in README
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
   generate-profile-summary:
     name: Generate Profile Summary Cards
