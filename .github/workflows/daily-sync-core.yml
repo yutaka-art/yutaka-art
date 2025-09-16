@@ -101,15 +101,20 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           
-      - name: Generate all metrics
+      - name: Generate base metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: |
-            output/metrics.base.svg
-            output/details.svg
-            output/metrics.plugin.achievements.compact.svg
+          filename: output/metrics.base.svg
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           base: header, activity, community, repositories, metadata
+          dry_run: true
+          
+      - name: Generate detailed language metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: output/details.svg
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          base: ""
           repositories_skipped: chatbot-ui, gitHub-readme-stats-clone, PL0-compiler
           plugin_languages: yes
           plugin_languages_ignored: >-
@@ -118,13 +123,45 @@ jobs:
           plugin_languages_limit: 8
           plugin_followup: yes
           plugin_followup_indepth: yes
+          dry_run: true
+          
+      - name: Generate achievements metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: output/metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          base: ""
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-          committer_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          committer_branch: main
-          committer_message: "chore: update GitHub metrics [skip ci]"
-          delay: 120
+          dry_run: true
+          
+      - name: Commit and push all metrics
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update GitHub metrics [skip ci]"
+            
+            # Try to push with retries
+            for i in {1..3}; do
+              if git push; then
+                echo "Push successful on attempt $i"
+                break
+              else
+                echo "Push failed on attempt $i, pulling and retrying..."
+                git pull --rebase origin main
+                if [ $i -eq 3 ]; then
+                  echo "Push failed after 3 attempts"
+                  exit 1
+                fi
+                sleep 2
+              fi
+            done
+          else
+            echo "No metrics changes to commit"
+          fi
