@@ -29,10 +29,9 @@ Recipient of the GitHub Stars Award (2025) 🌟
 <details>
   <summary>:zap: Stats Detail</summary>
 
-<p align="left"> 
-  <img alt="github stats" height="150px" src="/output/metrics.base.svg" />
-  <img alt="Top Langs" height="150px" src="/output/details.svg" />
-</p>
+[![metricsbase](/output/metrics.base.svg)](/output/metrics.base.svg)
+
+[![details](/output/details.svg)](/output/details.svg)
 
 </details>
 
