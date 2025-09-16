@@ -8,7 +8,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  name: GitHub-Update-Activity
   build:
     runs-on: ubuntu-latest
 
