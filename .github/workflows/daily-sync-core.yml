@@ -1,4 +1,4 @@
-name: GitHub Profile Update
+name: GitHub-Sync-Core
 
 on:
   # run automatically every 24 hours at 15:05 UTC
