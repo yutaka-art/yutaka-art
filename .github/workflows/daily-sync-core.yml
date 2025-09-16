@@ -10,11 +10,16 @@ on:
 permissions:
   contents: write
   actions: read
+  metadata: read
+  pull-requests: read
+  issues: read
+  repository-projects: read
 
 jobs:
   update-github-activity:
     name: Update GitHub Activity
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -24,12 +29,14 @@ jobs:
       - name: Update GitHub Activity in README
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   generate-profile-summary:
     name: Generate Profile Summary Cards
     runs-on: ubuntu-latest
     needs: update-github-activity
+    if: always()
+    continue-on-error: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -47,6 +54,8 @@ jobs:
     name: Generate 3D Contribution Graph
     runs-on: ubuntu-latest
     needs: generate-profile-summary
+    if: always()
+    continue-on-error: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -72,6 +81,8 @@ jobs:
     name: Generate GitHub Metrics
     runs-on: ubuntu-latest
     needs: generate-3d-contrib
+    if: always()
+    continue-on-error: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
