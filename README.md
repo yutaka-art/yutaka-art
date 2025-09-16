@@ -29,10 +29,10 @@ Recipient of the GitHub Stars Award (2025) 🌟
 <details>
   <summary>:zap: Stats Detail</summary>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-[![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="left"> 
+  <img alt="github stats" height="150px" src="/output/metrics.base.svg" />
+  <img alt="Top Langs" height="150px" src="/output/details.svg" />
+</p>
 
 </details>
 
@@ -49,11 +49,6 @@ Recipient of the GitHub Stars Award (2025) 🌟
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/yutaka-art/gh-issue-bulk-create/issues/3) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-2. ❗ Opened issue [#2](https://github.com/yutaka-art/gh-issue-bulk-create/issues/2) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-3. ❗ Opened issue [#1](https://github.com/yutaka-art/gh-issue-bulk-create/issues/1) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-4. 🔒 Closed issue [#13](https://github.com/yutaka-art/yutaka-art/issues/13) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
-5. ❗ Opened issue [#13](https://github.com/yutaka-art/yutaka-art/issues/13) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
 <!--END_SECTION:activity-->
 
 </details>
