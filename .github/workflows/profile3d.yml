@@ -2,8 +2,8 @@ name: Generate-3d-Chart-for-Profile-Contributions
 
 on:
   # run automatically every 24 hours
-  schedule:
-    - cron: "15 15 * * *"
+  #schedule:
+  #  - cron: "15 15 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:

@@ -1,8 +1,8 @@
 name: GitHub-Daily-Profile-Update
 on:
   # run automatically every 24 hours
-  schedule:
-    - cron: "20 15 * * *"
+  #schedule:
+  #  - cron: "20 15 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:

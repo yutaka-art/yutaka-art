@@ -20,8 +20,8 @@ Recipient of the GitHub Stars Award (2025) 🌟
 </p>
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats-omega-two-85.vercel.app/api?username=yutaka-art&show_icons=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-omega-two-85.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api?username=yutaka-art&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api/top-langs/?username=yutaka-art&layout=compact&show_icons=true" />
 </p>
 
 [![trophy](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=8&title=-Reviews)](https://github-profile-trophy-sable.vercel.app/?username=yutaka-art&column=8&title=-Reviews)
@@ -49,10 +49,6 @@ Recipient of the GitHub Stars Award (2025) 🌟
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/yutaka-art/gh-issue-bulk-create/issues/3) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-2. ❗ Opened issue [#2](https://github.com/yutaka-art/gh-issue-bulk-create/issues/2) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-3. ❗ Opened issue [#1](https://github.com/yutaka-art/gh-issue-bulk-create/issues/1) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-4. 🔒 Closed issue [#13](https://github.com/yutaka-art/yutaka-art/issues/13) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
 <!--END_SECTION:activity-->
 
 </details>

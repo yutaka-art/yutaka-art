@@ -1,0 +1,115 @@
+name: GitHub Profile Update
+
+on:
+  # run automatically every 24 hours at 15:05 UTC
+  schedule:
+    - cron: "5 15 * * *"
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  update-github-activity:
+    name: Update GitHub Activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Update GitHub Activity in README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+  generate-profile-summary:
+    name: Generate Profile Summary Cards
+    runs-on: ubuntu-latest
+    needs: update-github-activity
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+  generate-3d-contrib:
+    name: Generate 3D Contribution Graph
+    runs-on: ubuntu-latest
+    needs: generate-profile-summary
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git diff --staged --quiet || git commit -m "chore: update 3D contribution graph [skip ci]"
+          git push
+
+  generate-metrics:
+    name: Generate GitHub Metrics
+    runs-on: ubuntu-latest
+    needs: generate-3d-contrib
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          
+      - name: Generate base metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: output/metrics.base.svg
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          
+      - name: Generate detailed language metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: output/details.svg
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          base: ""
+          repositories_skipped: chatbot-ui, gitHub-readme-stats-clone, PL0-compiler
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            tex, less, qmake, lex, gnuplot
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          
+      - name: Generate achievements metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: output/metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
