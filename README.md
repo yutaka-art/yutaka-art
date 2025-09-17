@@ -3,7 +3,7 @@ Hi, I'm an Azure solution developer and DevOps engineer. 💻
 
 Recipient of the GitHub Stars Award (2025) 🌟
 
-## 🌱 my skills
+## 🌱 My skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=11&i=azure,cs,dotnet,visualstudio,vscode,windows,github,git,githubactions,docker,kubernetes" />
 
 ## 📈 Stats
@@ -49,7 +49,7 @@ Recipient of the GitHub Stars Award (2025) 🌟
 ---
 
 ## 📨 Contact me.
-**[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Portfolio Web](https://yutaka-art.github.io/yutaka-art/index-en.html)**
+**[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Profile Web](https://yutaka-art.github.io/yutaka-art/index-en.html)**
 
 
 
