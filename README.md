@@ -34,7 +34,7 @@ Recipient of the GitHub Stars Award (2025) 🌟
 [![details](/output/details.svg)](/output/details.svg)
 
 </details>
-<br>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
