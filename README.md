@@ -34,25 +34,22 @@ Recipient of the GitHub Stars Award (2025) 🌟
 [![details](/output/details.svg)](/output/details.svg)
 
 </details>
-
-## 📨 Contact me.
-**[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Portfolio Web](https://yutaka-art.github.io/yutaka-art/index-en.html)**
-
-## 🎧 Spotify Playing
-
-[<img src="https://novatorem-smoky-seven.vercel.app/api/spotify" alt="yutaka-art Spotify Playing" width="350" />](https://open.spotify.com/user/yutaka-art)
-
----
-
+<br>
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/yutaka-art/gh-issue-bulk-create/issues/3) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-2. ❗ Opened issue [#2](https://github.com/yutaka-art/gh-issue-bulk-create/issues/2) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-3. ❗ Opened issue [#1](https://github.com/yutaka-art/gh-issue-bulk-create/issues/1) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-4. 🔒 Closed issue [#13](https://github.com/yutaka-art/yutaka-art/issues/13) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
-5. ❗ Opened issue [#13](https://github.com/yutaka-art/yutaka-art/issues/13) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
 <!--END_SECTION:activity-->
 
 </details>
+
+## 🎧 Spotify Playing
+[<img src="https://novatorem-smoky-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="yutaka-art Spotify Playing"  />](https://open.spotify.com/user/yutaka-art)
+
+---
+
+## 📨 Contact me.
+**[Gmail - @union.dml](mailto:union.dml@gmail.com)** | **[Portfolio Web](https://yutaka-art.github.io/yutaka-art/index-en.html)**
+
+
+
