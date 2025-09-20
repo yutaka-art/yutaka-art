@@ -39,11 +39,11 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/yutaka-art/gh-issue-bulk-create/issues/3) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-2. ❗ Opened issue [#2](https://github.com/yutaka-art/gh-issue-bulk-create/issues/2) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-3. ❗ Opened issue [#1](https://github.com/yutaka-art/gh-issue-bulk-create/issues/1) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
-4. 🔒 Closed issue [#13](https://github.com/yutaka-art/yutaka-art/issues/13) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
-5. ❗ Opened issue [#13](https://github.com/yutaka-art/yutaka-art/issues/13) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
+1. 🚀 Published release [V2.0.0](https://github.com/yutaka-art/slug-checker/releases/tag/v2.0.0) in [yutaka-art/slug-checker](https://github.com/yutaka-art/slug-checker)
+2. ❗ Opened issue [#3](https://github.com/yutaka-art/gh-issue-bulk-create/issues/3) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
+3. ❗ Opened issue [#2](https://github.com/yutaka-art/gh-issue-bulk-create/issues/2) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
+4. ❗ Opened issue [#1](https://github.com/yutaka-art/gh-issue-bulk-create/issues/1) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
+5. 🔒 Closed issue [#13](https://github.com/yutaka-art/yutaka-art/issues/13) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
 <!--END_SECTION:activity-->
 
 </details>
