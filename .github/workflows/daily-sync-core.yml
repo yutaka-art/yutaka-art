@@ -143,6 +143,8 @@ jobs:
         run: |
           # output ディレクトリが存在することを確認
           if [ -d "output" ] && [ "$(ls -A output)" ]; then
+            git config --local user.name "yutaka-art"
+            git config --local user.email "union.dml@gmail.com"
             git add output/
             if ! git diff --staged --quiet; then
               git commit -m "chore: update GitHub metrics [skip ci]"
