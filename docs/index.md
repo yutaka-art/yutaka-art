@@ -107,9 +107,6 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 - Microsoft Certified: Azure Developer Associate
 - MCSD: App Builder
 - MCSA: Web Application
-- METI (Japan)-SA/System Architect
-- METI (Japan)-AP/Applied Information Technology Engineer
-- METI (Japan)-FE/Fundamental Information Technology Engineer
 
 ## 最終学歴
 - 大正大学 人間学部 仏教学科 専攻 (2006年3月修了)
