@@ -39,6 +39,11 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#12](https://github.com/yutaka-art/yutaka-art/issues/12) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
+2. 🚀 Published release [V2.0.0](https://github.com/yutaka-art/slug-checker/releases/tag/v2.0.0) in [yutaka-art/slug-checker](https://github.com/yutaka-art/slug-checker)
+3. ❗ Opened issue [#3](https://github.com/yutaka-art/gh-issue-bulk-create/issues/3) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
+4. ❗ Opened issue [#2](https://github.com/yutaka-art/gh-issue-bulk-create/issues/2) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
+5. ❗ Opened issue [#1](https://github.com/yutaka-art/gh-issue-bulk-create/issues/1) in [yutaka-art/gh-issue-bulk-create](https://github.com/yutaka-art/gh-issue-bulk-create)
 <!--END_SECTION:activity-->
 
 </details>
