@@ -1,8 +1,12 @@
-■志望の一言<br>
-私は CSA として、プロダクトに最も近い現場で DevOps Transformation を "運用で成果が出る形" に落とし込み、顧客価値創出を加速したいと考えています。<br>
-Azure × GitHub を軸に、AI前提の ソフトウェアライフサイクル・セキュリティ・可観測性を設計し、PoC→MVP→標準化→運用拡張を一気通貫で推進できます。<br>
-2025年9月 GitHub Stars 受賞。顧客中心・ビジネスインパクト・テクニカルリーダーシップの3点で、CSA の要件に即応します。<br>
-また御社のカルチャーを理解し、Sales/Tech salesと連携し価値の創出。ひいてはACRの向上に寄与できるよう全力で取り組ませていただく所存です。
+➡️ [View in English](./index-en.md)
+
+## 連絡先
+- Email: `union.dml@gmail.com`
+
+## SNS
+- GitHub: <a href="https://github.com/yutaka-art" target="_blank">https://github.com/yutaka-art</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/yutaka-osada0922/" target="_blank">https://www.linkedin.com/in/yutaka-osada0922/</a>
+- X: <a href="https://x.com/YoutanDml" target="_blank">https://x.com/YoutanDml</a>
 
 ## サマリ
 Microsoft Azure × GitHub Enterprise に精通し、**エンタープライズ向け DevOps／DevSecOps プラットフォームの構想策定から運用定着までを統括するエンジニアリングリーダー**
@@ -31,7 +35,7 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 
 ## 職務経歴
 ### アバナード株式会社 (Avanade Japan)：2018 / 02 〜 現在
-#### Manager, DevOps Engineering（2024 / 06 〜 現在）
+#### Manager, DevOps Engineering（2024 / 05 〜 現在）
 **役割：** DevOps Engineer｜Delivery Lead｜ソリューションアーキテクト
 - **GitHub Enterprise Cloud 運用ガイドライン策定（製造業・2024）**
   - 請求・監査・セキュリティポリシーを体系化しワークショップで全ステークホルダー合意を取得。
@@ -96,6 +100,9 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 
 ---
 
+## 受領歴（Award）
+- <a href="https://stars.github.com/profiles/yutaka-art/" target="_blank">GitHub Stars (Sep-2025-) </a>
+
 ## 資格・認定（Certifications）
 - GitHub Certified: GitHub Copilot
 - GitHub Certified: GitHub Advanced Security
@@ -108,6 +115,9 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 - Microsoft Certified: Azure Developer Associate
 - MCSD: App Builder
 - MCSA: Web Application
+- METI (Japan)-SA/System Architect
+- METI (Japan)-AP/Applied Information Technology Engineer
+- METI (Japan)-FE/Fundamental Information Technology Engineer
 
 ## 最終学歴
 - 大正大学 人間学部 仏教学科 専攻 (2006年3月修了)
@@ -173,17 +183,9 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 <h3>執筆</h3>
 <ul>
   <li>技術ブログ（Zenn）: <a href="https://zenn.dev/yutakaosada" target="_blank">https://zenn.dev/yutakaosada</a></li>
-  <li>書籍執筆中: AZ-400 試験対策書籍（執筆中）</li>
+  <li>書籍執筆中: AZ-400 試験対策書籍</li>
 </ul>
 
 
 ## その他
 - 過去の登壇スライドまとめ: <a href="https://speakerdeck.com/yutakaosada" target="_blank">https://speakerdeck.com/yutakaosada</a>
-
-## 連絡先
-- Email: `union.dml@gmail.com`
-
-## SNS
-- GitHub: <a href="https://github.com/yutaka-art" target="_blank">https://github.com/yutaka-art</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/yutaka-osada0922/" target="_blank">https://www.linkedin.com/in/yutaka-osada0922/</a>
-- X: <a href="https://x.com/YoutanDml" target="_blank">https://x.com/YoutanDml</a>
