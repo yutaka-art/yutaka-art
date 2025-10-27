@@ -39,11 +39,11 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/yutaka-art/copilot-metrics-platform/issues/2#issuecomment-3431147340) in [yutaka-art/copilot-metrics-platform](https://github.com/yutaka-art/copilot-metrics-platform)
-2. 🗣 Commented on [#2](https://github.com/yutaka-art/copilot-metrics-platform/issues/2#issuecomment-3431143275) in [yutaka-art/copilot-metrics-platform](https://github.com/yutaka-art/copilot-metrics-platform)
-3. 🔒 Closed issue [#2](https://github.com/yutaka-art/copilot-metrics-platform/issues/2) in [yutaka-art/copilot-metrics-platform](https://github.com/yutaka-art/copilot-metrics-platform)
-4. ❌ Labeled PR [#3](undefined) in [yutaka-art/copilot-metrics-platform](https://github.com/yutaka-art/copilot-metrics-platform)
-5. 💪 Opened PR [#3](undefined) in [yutaka-art/copilot-metrics-platform](https://github.com/yutaka-art/copilot-metrics-platform)
+1. 🗣 Commented on [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4#issuecomment-3450079799) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
+2. 🗣 Commented on [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4#issuecomment-3450079789) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
+3. 🗣 Commented on [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4#issuecomment-3450079809) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
+4.  Labeled issue [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
+5. ❗ Opened issue [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
 <!--END_SECTION:activity-->
 
 </details>
