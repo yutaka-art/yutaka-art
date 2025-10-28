@@ -39,11 +39,11 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4#issuecomment-3450079799) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
-2. 🗣 Commented on [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4#issuecomment-3450079789) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
-3. 🗣 Commented on [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4#issuecomment-3450079809) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
-4.  Labeled issue [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
-5. ❗ Opened issue [#4](https://github.com/yutaka-art/migration-lab-to-hub/issues/4) in [yutaka-art/migration-lab-to-hub](https://github.com/yutaka-art/migration-lab-to-hub)
+1. 🔒 Closed issue [#11](https://github.com/yutaka-art/yutaka-art/issues/11) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
+2. ❌ Labeled PR [#13](undefined) in [yutaka-art/event-attendees-app](https://github.com/yutaka-art/event-attendees-app)
+3. ❌ Assigned PR [#13](undefined) in [yutaka-art/event-attendees-app](https://github.com/yutaka-art/event-attendees-app)
+4. 💪 Opened PR [#13](undefined) in [yutaka-art/event-attendees-app](https://github.com/yutaka-art/event-attendees-app)
+5. 🗣 Commented on [#12](https://github.com/yutaka-art/event-attendees-app/issues/12#issuecomment-3454231823) in [yutaka-art/event-attendees-app](https://github.com/yutaka-art/event-attendees-app)
 <!--END_SECTION:activity-->
 
 </details>
