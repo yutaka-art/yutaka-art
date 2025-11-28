@@ -117,7 +117,7 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 - MCSA: Web Application
 
 ## 最終学歴
-- 大正大学 人間学部 仏教学科 専攻 (2006年3月修了)
+- 大正大学 人間学部 仏教学科 専攻
 
 <h2>コミュニティ・社外活動（抜粋）</h2>
 
