@@ -115,9 +115,6 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 - Microsoft Certified: Azure Developer Associate
 - MCSD: App Builder
 - MCSA: Web Application
-- METI (Japan)-SA/System Architect
-- METI (Japan)-AP/Applied Information Technology Engineer
-- METI (Japan)-FE/Fundamental Information Technology Engineer
 
 ## 最終学歴
 - 大正大学 人間学部 仏教学科 専攻 (2006年3月修了)
@@ -135,6 +132,30 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>2025/11/26</td>
+      <td>GitHub Universe ’25 Recap Tokyo</td>
+      <td>AI-Native時代のDevOpsとGitHub活用Avanadeが導く価値速度の新標準</td>
+      <td><a href="https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4?utm_source=ssponsor4&utm_medium=email&utm_campaign=recap25-TKY#Text%20Grid" target="_blank">https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4?utm_source=ssponsor4&utm_medium=email&utm_campaign=recap25-TKY#Text%20Grid</a></td>
+    </tr>
+    <tr>
+      <td>2025/10/25</td>
+      <td>.NETラボ</td>
+      <td>GitHub Copilot活用度を“計測できる”にする - Cron×Dapr×Cosmos DBで作るバックエンド</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo" target="_blank">https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo</a></td>
+    </tr>
+    <tr>
+      <td>2025/08/20</td>
+      <td>Platform Engineering Meetup Online</td>
+      <td>信頼できる開発プラットフォームをどう作るか？-Platform Engineeringの進め方-</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang" target="_blank">https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang</a></td>
+    </tr>
+    <tr>
+      <td>2025/07/26</td>
+      <td>.NETラボ</td>
+      <td>Application InsightsのAPIキー廃止とEntra ID統合：DevOps観点からのモニタリング戦略</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/20250726-application-insightsnoapikifei-zhi-toentra-idtong-he-devopsguan-dian-karanomonitaringuzhan-lue" target="_blank">https://speakerdeck.com/yutakaosada/20250726-application-insightsnoapikifei-zhi-toentra-idtong-he-devopsguan-dian-karanomonitaringuzhan-lue</a></td>
+    </tr>
     <tr>
       <td>2025/04/15</td>
       <td>DevOpsDays Tokyo 2025</td>
@@ -183,7 +204,7 @@ Microsoft Azure × GitHub Enterprise に精通し、**エンタープライ�
 <h3>執筆</h3>
 <ul>
   <li>技術ブログ（Zenn）: <a href="https://zenn.dev/yutakaosada" target="_blank">https://zenn.dev/yutakaosada</a></li>
-  <li>書籍執筆中: AZ-400 試験対策書籍</li>
+  <li>書籍執筆: <a href="https://amzn.asia/d/5383ULx" target="_blank">合格対策Microsoft認定試験AZ-400：Designing and Implementing Microsoft DevOps Solutionsテキスト＆演習問題</a></li>
 </ul>
 
 

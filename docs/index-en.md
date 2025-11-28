@@ -97,21 +97,21 @@ Engineering leader with deep expertise in **Microsoft Azure × GitHub Enterprise
 
 ---
 
+## Award
+- <a href="https://stars.github.com/profiles/yutaka-art/" target="_blank">GitHub Stars (Sep-2025-) </a>
+
 ## Certifications
 - GitHub Certified: GitHub Copilot
 - GitHub Certified: GitHub Advanced Security
 - GitHub Certified: GitHub Actions
 - GitHub Certified: GitHub Administration
 - GitHub Certified: GitHub Foundations
-- Microsoft Certified: Azure Solutions Architect Expert  
-- Microsoft Certified: Azure Administrator Associate  
-- Microsoft Certified: DevOps Engineer Expert  
-- Microsoft Certified: Azure Developer Associate  
-- MCSD: App Builder  
-- MCSA: Web Application  
-- METI (Japan) — Systems Architect (SA)  
-- METI (Japan) — Applied Information Technologist (AP)  
-- METI (Japan) — Fundamental Information Technologist (FE)  
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Developer Associate
+- MCSD: App Builder
+- MCSA: Web Application
 
 ## Education
 - Bachelor of Human Studies, Department of Buddhist Studies, Taisho University (Mar 2006)
@@ -130,46 +130,70 @@ Engineering leader with deep expertise in **Microsoft Azure × GitHub Enterprise
   </thead>
   <tbody>
     <tr>
+      <td>2025-11-26</td>
+      <td>GitHub Universe ’25 Recap Tokyo</td>
+      <td>DevOps and GitHub in the AI-Native Era: Avanade’s New Standard for Value Velocity</td>
+      <td><a href="https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4?utm_source=ssponsor4&utm_medium=email&utm_campaign=recap25-TKY#Text%20Grid" target="_blank">https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4?utm_source=ssponsor4&utm_medium=email&utm_campaign=recap25-TKY#Text%20Grid</a></td>
+    </tr>
+    <tr>
+      <td>2025-10-25</td>
+      <td>.NET Lab</td>
+      <td>Making GitHub Copilot Adoption Measurable – Building a Backend with Cron × Dapr × Cosmos DB</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo" target="_blank">https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo</a></td>
+    </tr>
+    <tr>
+      <td>2025-08-20</td>
+      <td>Platform Engineering Meetup Online</td>
+      <td>How Do You Build a Trustworthy Development Platform? – A Practical Approach to Platform Engineering</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang" target="_blank">https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang</a></td>
+    </tr>
+    <tr>
+      <td>2025-07-26</td>
+      <td>.NET Lab</td>
+      <td>Application Insights API Key Deprecation and Entra ID Integration: A Monitoring Strategy from a DevOps Perspective</td>
+      <td><a href="https://speakerdeck.com/yutakaosada/20250726-application-insightsnoapikifei-zhi-toentra-idtong-he-devopsguan-dian-karanomonitaringuzhan-lue" target="_blank">https://speakerdeck.com/yutakaosada/20250726-application-insightsnoapikifei-zhi-toentra-idtong-he-devopsguan-dian-karanomonitaringuzhan-lue</a></td>
+    </tr>
+    <tr>
       <td>2025-04-15</td>
       <td>DevOpsDays Tokyo 2025</td>
       <td>Empowering Enterprise Security and Building a Data Analytics Platform Using GitHub Audit Logs</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu" target="_blank">Link</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu" target="_blank">https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu</a></td>
     </tr>
     <tr>
       <td>2025-03-25</td>
       <td>JPM365DEV</td>
       <td>Behind the SharePoint Connector for Logic Apps / Power Automate: Direct Operations via the Graph API</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou" target="_blank">Link</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou" target="_blank">https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou</a></td>
     </tr>
     <tr>
       <td>2025-02-25</td>
       <td>GitHub Dockyard</td>
       <td>Enhancing Enterprise Security with GitHub Audit Logs and Cloud Analytics</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua" target="_blank">Link</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua" target="_blank">https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua</a></td>
     </tr>
     <tr>
       <td>2024-12-14</td>
       <td>TFSUG</td>
       <td>Practical CI/CD and Database Deployment with Azure Pipelines</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian" target="_blank">Link</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian" target="_blank">https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian</a></td>
     </tr>
     <tr>
       <td>2024-11-30</td>
       <td>Visual Studio Users Community Japan</td>
       <td>Azure DevOps REST API Best Practices for Security — Benefits of Workload Identity Federation</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto" target="_blank">Link</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto" target="_blank">https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto</a></td>
     </tr>
     <tr>
       <td>2024-07-16</td>
       <td>Japan Azure Users Group</td>
       <td>Implementing a CI/CD Baseline Architecture with Azure Pipelines</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian" target="_blank">Link</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian" target="_blank">https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian</a></td>
     </tr>
     <tr>
       <td>2024-01-27</td>
       <td>TFSUG</td>
       <td>Practical Multi-Tenant Deployments Between Azure DevOps and Azure Using Service Connections</td>
-      <td><a href="https://speakerdeck.com/yutakaosada/marutitenantodenosabisukonekusiyonwoshi-yong-sitaazure-devops-equals-azure-denodepuroishi-jian" target="_blank">Link</a></td>
+      <td><a href="https://speakerdeck.com/yutakaosada/marutitenantodenosabisukonekusiyonwoshi-yong-sitaazure-devops-equals-azure-denodepuroishi-jian" target="_blank">https://speakerdeck.com/yutakaosada/marutitenantodenosabisukonekusiyonwoshi-yong-sitaazure-devops-equals-azure-denodepuroishi-jian</a></td>
     </tr>
   </tbody>
 </table>
@@ -177,7 +201,7 @@ Engineering leader with deep expertise in **Microsoft Azure × GitHub Enterprise
 <h3>Writing</h3>
 <ul>
   <li>Technical Blog (Zenn): <a href="https://zenn.dev/yutakaosada" target="_blank">https://zenn.dev/yutakaosada</a></li>
-  <li>Book in Progress: AZ-400 Exam Preparation Guide</li>
+  <li>Book: <a href="https://amzn.asia/d/5383ULx" target="_blank">合格対策Microsoft認定試験AZ-400：Designing and Implementing Microsoft DevOps Solutionsテキスト＆演習問題</a></li>
 </ul>
 
 ## Other
