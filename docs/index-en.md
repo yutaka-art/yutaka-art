@@ -114,7 +114,7 @@ Engineering leader with deep expertise in **Microsoft Azure × GitHub Enterprise
 - MCSA: Web Application
 
 ## Education
-- Bachelor of Human Studies, Department of Buddhist Studies, Taisho University
+- Bachelor of Human Studies, Department of Buddhist Studies, Taisho University (Mar 2006)
 
 <h2>Community & External Activities (Highlights)</h2>
 
