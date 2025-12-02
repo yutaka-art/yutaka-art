@@ -39,8 +39,8 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/yutaka-art/yutaka-art/issues/11) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
-2. ❌ Labeled PR [#13](undefined) in [yutaka-art/event-attendees-app](https://github.com/yutaka-art/event-attendees-app)
+1. 🗣 Commented on [#1](https://github.com/yutaka-art/skills-migrate-ado-repository/issues/1#issuecomment-3600041805) in [yutaka-art/skills-migrate-ado-repository](https://github.com/yutaka-art/skills-migrate-ado-repository)
+2. 🗣 Commented on [#1](https://github.com/yutaka-art/skills-migrate-ado-repository/issues/1#issuecomment-3599947854) in [yutaka-art/skills-migrate-ado-repository](https://github.com/yutaka-art/skills-migrate-ado-repository)
 3. ❌ Assigned PR [#13](undefined) in [yutaka-art/event-attendees-app](https://github.com/yutaka-art/event-attendees-app)
 4. 💪 Opened PR [#13](undefined) in [yutaka-art/event-attendees-app](https://github.com/yutaka-art/event-attendees-app)
 5. 🗣 Commented on [#12](https://github.com/yutaka-art/event-attendees-app/issues/12#issuecomment-3454231823) in [yutaka-art/event-attendees-app](https://github.com/yutaka-art/event-attendees-app)
