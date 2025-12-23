@@ -49,7 +49,7 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
 </details>
 
 ## 🎧 Spotify Playing
-[<img src="https://novatorem-smoky-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="yutaka-art Spotify Playing"  />](https://open.spotify.com/user/yutaka-art)
+[<img src="https://novatorem-smoky-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="yutaka-art Spotify Playing" />](https://open.spotify.com/user/yutaka-art)
 
 ---
 
