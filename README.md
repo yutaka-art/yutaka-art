@@ -39,11 +39,11 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#11](undefined) in [yutaka-art/skills-expand-your-team-with-copilot](https://github.com/yutaka-art/skills-expand-your-team-with-copilot)
-2. 💪 Opened PR [#11](undefined) in [yutaka-art/skills-expand-your-team-with-copilot](https://github.com/yutaka-art/skills-expand-your-team-with-copilot)
-3. 🔒 Closed issue [#2](https://github.com/yutaka-art/skills-expand-your-team-with-copilot/issues/2) in [yutaka-art/skills-expand-your-team-with-copilot](https://github.com/yutaka-art/skills-expand-your-team-with-copilot)
-4. ❗ Opened issue [#2](https://github.com/yutaka-art/skills-expand-your-team-with-copilot/issues/2) in [yutaka-art/skills-expand-your-team-with-copilot](https://github.com/yutaka-art/skills-expand-your-team-with-copilot)
-5.  Assigned issue [#2](https://github.com/yutaka-art/skills-expand-your-team-with-copilot/issues/2) in [yutaka-art/skills-expand-your-team-with-copilot](https://github.com/yutaka-art/skills-expand-your-team-with-copilot)
+1. ❌ Merged PR [#1](undefined) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
+2. 💪 Opened PR [#1](undefined) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
+3. ❌ Closed PR [#412](undefined) in [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp)
+4. 💪 Opened PR [#412](undefined) in [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp)
+5. ❌ Merged PR [#11](undefined) in [yutaka-art/skills-expand-your-team-with-copilot](https://github.com/yutaka-art/skills-expand-your-team-with-copilot)
 <!--END_SECTION:activity-->
 
 </details>
