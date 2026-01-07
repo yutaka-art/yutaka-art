@@ -39,11 +39,11 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/yutaka-art/azure-search-openai-demo-csharp/pull/3) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
-2. 💪 Opened PR [#3](https://github.com/yutaka-art/azure-search-openai-demo-csharp/pull/3) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
-3. 🎉 Merged PR [#1](https://github.com/yutaka-art/azure-search-openai-demo-csharp/pull/1) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
-4. 💪 Opened PR [#1](https://github.com/yutaka-art/azure-search-openai-demo-csharp/pull/1) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
-5. ❌ Closed PR [#412](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/pull/412) in [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp)
+1. 🔒 Closed issue [#7](https://github.com/yutaka-art/yutaka-art/issues/7) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
+2. 🔒 Closed issue [#9](https://github.com/yutaka-art/yutaka-art/issues/9) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
+3. 🔒 Closed issue [#10](https://github.com/yutaka-art/yutaka-art/issues/10) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
+4. 🎉 Merged PR [#3](https://github.com/yutaka-art/azure-search-openai-demo-csharp/pull/3) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
+5. 💪 Opened PR [#3](https://github.com/yutaka-art/azure-search-openai-demo-csharp/pull/3) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
 <!--END_SECTION:activity-->
 
 </details>
