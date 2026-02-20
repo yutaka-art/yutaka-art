@@ -39,10 +39,10 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/yutaka-art/yutaka-art/issues/7) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
-2. 🔒 Closed issue [#9](https://github.com/yutaka-art/yutaka-art/issues/9) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
-3. 🔒 Closed issue [#10](https://github.com/yutaka-art/yutaka-art/issues/10) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
-4. 🎉 Merged PR [#3](https://github.com/yutaka-art/azure-search-openai-demo-csharp/pull/3) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
+1. 🎉 Merged PR [#3](https://github.com/yutaka-art/skills-introduction-to-codeql02/pull/3) in [yutaka-art/skills-introduction-to-codeql02](https://github.com/yutaka-art/skills-introduction-to-codeql02)
+2. 💪 Opened PR [#3](https://github.com/yutaka-art/skills-introduction-to-codeql02/pull/3) in [yutaka-art/skills-introduction-to-codeql02](https://github.com/yutaka-art/skills-introduction-to-codeql02)
+3. ℹ️ Assigned issue [#2](https://github.com/yutaka-art/skills-introduction-to-codeql02/issues/2) in [yutaka-art/skills-introduction-to-codeql02](https://github.com/yutaka-art/skills-introduction-to-codeql02)
+4. ❗ Opened issue [#2](https://github.com/yutaka-art/skills-introduction-to-codeql02/issues/2) in [yutaka-art/skills-introduction-to-codeql02](https://github.com/yutaka-art/skills-introduction-to-codeql02)
 5. 💪 Opened PR [#3](https://github.com/yutaka-art/azure-search-openai-demo-csharp/pull/3) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
 <!--END_SECTION:activity-->
 
