@@ -39,18 +39,9 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/yutaka-art/skills-introduction-to-codeql02/pull/3) in [yutaka-art/skills-introduction-to-codeql02](https://github.com/yutaka-art/skills-introduction-to-codeql02)
-2. 💪 Opened PR [#3](https://github.com/yutaka-art/skills-introduction-to-codeql02/pull/3) in [yutaka-art/skills-introduction-to-codeql02](https://github.com/yutaka-art/skills-introduction-to-codeql02)
-3. ℹ️ Assigned issue [#2](https://github.com/yutaka-art/skills-introduction-to-codeql02/issues/2) in [yutaka-art/skills-introduction-to-codeql02](https://github.com/yutaka-art/skills-introduction-to-codeql02)
-4. ❗ Opened issue [#2](https://github.com/yutaka-art/skills-introduction-to-codeql02/issues/2) in [yutaka-art/skills-introduction-to-codeql02](https://github.com/yutaka-art/skills-introduction-to-codeql02)
-5. 💪 Opened PR [#3](https://github.com/yutaka-art/azure-search-openai-demo-csharp/pull/3) in [yutaka-art/azure-search-openai-demo-csharp](https://github.com/yutaka-art/azure-search-openai-demo-csharp)
 <!--END_SECTION:activity-->
 
 </details>
-
-## 🎧 Spotify Playing
-[<img src="https://novatorem-smoky-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="yutaka-art Spotify Playing"  />](https://open.spotify.com/user/yutaka-art)
-
 ---
 
 ## 📨 Contact me.
