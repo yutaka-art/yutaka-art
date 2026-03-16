@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yutaka-art/yutaka-art/main/profile-summary-card-output/algolia/4-productive-time.svg)
-```
-
-    
