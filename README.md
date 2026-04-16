@@ -39,7 +39,7 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/yutaka-art/yutaka-art/pull/14) in [yutaka-art/yutaka-art](https://github.com/yutaka-art/yutaka-art)
+1. 🚀 Published release [v1.1.0](https://github.com/yutaka-art/ab100-cert-dev/releases/tag/v1.1.0) in [yutaka-art/ab100-cert-dev](https://github.com/yutaka-art/ab100-cert-dev)
 <!--END_SECTION:activity-->
 
 </details>
