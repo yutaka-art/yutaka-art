@@ -1,7 +1,8 @@
 ﻿# 🐤 About yutaka-art
 Hi, I'm an Azure solution developer and DevOps engineer. 💻
 
-Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) Award(2025)🌟
+[Microsoft MVP | Developer Technologies / DevOps](https://mvp.microsoft.com/en-us/MVP/profile/c7487b44-5657-4df1-b09e-bac6c5577f93) (2026-) 🏆  
+[GitHub Star](https://stars.github.com/profiles/yutaka-art/) (2025-) 🌟
 
 ## 🌱 My skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=11&i=azure,cs,dotnet,visualstudio,vscode,windows,github,git,githubactions,docker,kubernetes" />
@@ -37,11 +38,6 @@ Recipient of the [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) A
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/yutaka-art/ab100-cert-dev/releases/tag/v1.1.0) in [yutaka-art/ab100-cert-dev](https://github.com/yutaka-art/ab100-cert-dev)
-<!--END_SECTION:activity-->
-
 </details>
 ---
 
