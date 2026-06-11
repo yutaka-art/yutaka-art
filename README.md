@@ -39,8 +39,8 @@ Hi, I'm an Azure solution developer and DevOps engineer. 💻
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/yutaka-art/nearest-station-map/releases/tag/v1.0.1) in [yutaka-art/nearest-station-map](https://github.com/yutaka-art/nearest-station-map)
-2. 🚀 Published release [v1.0.0](https://github.com/yutaka-art/nearest-station-map/releases/tag/v1.0.0) in [yutaka-art/nearest-station-map](https://github.com/yutaka-art/nearest-station-map)
+1. ❌ Closed PR [#392](https://github.com/github-copilot-resources/copilot-metrics-viewer/pull/392) in [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer)
+2. 💪 Opened PR [#392](https://github.com/github-copilot-resources/copilot-metrics-viewer/pull/392) in [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer)
 <!--END_SECTION:activity-->
 </details>
 ---
