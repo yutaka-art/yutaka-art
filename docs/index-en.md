@@ -1,3 +1,5 @@
+<style>a { overflow-wrap: anywhere; word-break: break-all; }</style>
+
 I want to accelerate DevOps transformation for more enterprises through GitHub Copilot, working closer to Microsoft's products and engineering ecosystem. This is why I am applying for the Cloud & AI Software Solution Engineer (GitHub Presales) role.  
 With nearly 20 years of experience in software development and architecture, I have supported customers from discovery and technical proposals through demonstrations, PoCs, implementation, and operational adoption.  
 Microsoft MVP (2026) and GitHub Star (2025). I aim to combine insights from real-world customer engagements with community-driven technical expertise to transform the developer experience in the AI era.
@@ -139,8 +141,8 @@ Core technologies: Azure DevOps, Azure Functions, Dynamics 365 Project Operation
 
 ## Awards and Recognition
 
-- [Microsoft Most Valuable Professional (MVP) — Developer Technologies / DevOps](https://mvp.microsoft.com/en-us/MVP/profile/c7487b44-5657-4df1-b09e-bac6c5577f93) — Awarded May 2026, recognizing technical knowledge-sharing and contributions to the Developer Technologies / DevOps community.
-- [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) — Selected September 2025, recognizing technical content and contributions to the GitHub community.
+- [Microsoft Most Valuable Professional (MVP) — Developer Technologies / DevOps](https://mvp.microsoft.com/en-us/MVP/profile/c7487b44-5657-4df1-b09e-bac6c5577f93) — Awarded May 2026, recognizing technical knowledge-sharing and contributions to the Developer Technologies / DevOps community.<br><https://mvp.microsoft.com/en-us/MVP/profile/c7487b44-5657-4df1-b09e-bac6c5577f93>
+- [GitHub Stars](https://stars.github.com/profiles/yutaka-art/) — Selected September 2025, recognizing technical content and contributions to the GitHub community.<br><https://stars.github.com/profiles/yutaka-art/>
 
 ## Certifications
 
@@ -173,27 +175,27 @@ Within Avanade, I support engineer development and lead knowledge-sharing sessio
 
 | Date | Event | Topic / Materials |
 | --- | --- | --- |
-| 2026-10-22 | Dev Days: Copilot CLI × DevOps (Avanade Japan) | [GitHub Copilot CLI × Agentic DevOps — Going Beyond Deployment in 15 Minutes](https://avanadejapantech.connpass.com/event/406658/) |
-| 2025-11-26 | GitHub Universe '25 Recap Tokyo | [DevOps and GitHub in the AI-Native Era — Avanade's New Standard for Value Velocity](https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4) |
-| 2025-10-25 | .NET Lab | [Making GitHub Copilot Adoption Measurable — Building a Backend with Cron × Dapr × Cosmos DB](https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo) |
-| 2025-08-20 | Platform Engineering Meetup Online | [How Do You Build a Trustworthy Developer Platform? — A Practical Approach to Platform Engineering](https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang) |
-| 2025-07-26 | .NET Lab | [Application Insights API Key Deprecation and Entra ID Integration — A DevOps Monitoring Strategy](https://speakerdeck.com/yutakaosada/20250726-application-insightsnoapikifei-zhi-toentra-idtong-he-devopsguan-dian-karanomonitaringuzhan-lue) |
-| 2025-04-15 | DevOpsDays Tokyo 2025 | [Strengthening Enterprise Security and Building an Analytics Platform with GitHub Audit Logs](https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu) |
-| 2025-03-25 | JPM365DEV | [Behind the SharePoint Connector in Logic Apps and Power Automate — Working Directly with Microsoft Graph API](https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou) |
-| 2025-02-25 | GitHub Dockyard | [Enhancing Enterprise Security with GitHub Audit Logs and Cloud Analytics](https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua) |
-| 2024-12-14 | TFSUG | [Practical CI/CD and Database Deployment with Azure Pipelines](https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian) |
-| 2024-11-30 | Visual Studio Users Community Japan | [Azure DevOps REST API and Security Best Practices — Benefits of Workload Identity Federation](https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto) |
-| 2024-07-16 | Japan Azure Users Group | [Implementing a CI/CD Baseline Architecture with Azure Pipelines](https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian) |
-| 2024-01-27 | TFSUG | [Multi-Tenant Deployment Between Azure DevOps and Azure Using Service Connections](https://speakerdeck.com/yutakaosada/marutitenantodenosabisukonekusiyonwoshi-yong-sitaazure-devops-equals-azure-denodepuroishi-jian) |
+| 2026-10-22 | Dev Days: Copilot CLI × DevOps (Avanade Japan) | [GitHub Copilot CLI × Agentic DevOps — Going Beyond Deployment in 15 Minutes](https://avanadejapantech.connpass.com/event/406658/)<br><https://avanadejapantech.connpass.com/event/406658/> |
+| 2025-11-26 | GitHub Universe '25 Recap Tokyo | [DevOps and GitHub in the AI-Native Era — Avanade's New Standard for Value Velocity](https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4)<br><https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4> |
+| 2025-10-25 | .NET Lab | [Making GitHub Copilot Adoption Measurable — Building a Backend with Cron × Dapr × Cosmos DB](https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo)<br><https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo> |
+| 2025-08-20 | Platform Engineering Meetup Online | [How Do You Build a Trustworthy Developer Platform? — A Practical Approach to Platform Engineering](https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang)<br><https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang> |
+| 2025-07-26 | .NET Lab | [Application Insights API Key Deprecation and Entra ID Integration — A DevOps Monitoring Strategy](https://speakerdeck.com/yutakaosada/20250726-application-insightsnoapikifei-zhi-toentra-idtong-he-devopsguan-dian-karanomonitaringuzhan-lue)<br><https://speakerdeck.com/yutakaosada/20250726-application-insightsnoapikifei-zhi-toentra-idtong-he-devopsguan-dian-karanomonitaringuzhan-lue> |
+| 2025-04-15 | DevOpsDays Tokyo 2025 | [Strengthening Enterprise Security and Building an Analytics Platform with GitHub Audit Logs](https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu)<br><https://speakerdeck.com/yutakaosada/202504xx-githubjian-cha-roguwohuo-yong-sitaentapuraizuxiang-kesekiyuriteiqiang-hua-todetafen-xi-ji-pan-nogou-zhu> |
+| 2025-03-25 | JPM365DEV | [Behind the SharePoint Connector in Logic Apps and Power Automate — Working Directly with Microsoft Graph API](https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou)<br><https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou> |
+| 2025-02-25 | GitHub Dockyard | [Enhancing Enterprise Security with GitHub Audit Logs and Cloud Analytics](https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua)<br><https://speakerdeck.com/yutakaosada/20250225-githubjian-cha-roguxkuraudofen-xi-deshi-xian-suruentapuraizusekiyuriteiqiang-hua> |
+| 2024-12-14 | TFSUG | [Practical CI/CD and Database Deployment with Azure Pipelines](https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian)<br><https://speakerdeck.com/yutakaosada/azure-pipelinesniyorucicdtodetabesudepuroinoshi-jian> |
+| 2024-11-30 | Visual Studio Users Community Japan | [Azure DevOps REST API and Security Best Practices — Benefits of Workload Identity Federation](https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto)<br><https://speakerdeck.com/yutakaosada/azure-devops-rest-apihuo-yong-tosekiyuriteinobesutopurakuteisu-workload-identity-federationnomerituto> |
+| 2024-07-16 | Japan Azure Users Group | [Implementing a CI/CD Baseline Architecture with Azure Pipelines](https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian)<br><https://speakerdeck.com/yutakaosada/azure-pipelineswoshi-yong-sitacicdbesurainakitekutiyashi-jian> |
+| 2024-01-27 | TFSUG | [Multi-Tenant Deployment Between Azure DevOps and Azure Using Service Connections](https://speakerdeck.com/yutakaosada/marutitenantodenosabisukonekusiyonwoshi-yong-sitaazure-devops-equals-azure-denodepuroishi-jian)<br><https://speakerdeck.com/yutakaosada/marutitenantodenosabisukonekusiyonwoshi-yong-sitaazure-devops-equals-azure-denodepuroishi-jian> |
 
 ### Publications and Open-Source Contributions
 
-- Technical blog: [Zenn — yutakaosada](https://zenn.dev/yutakaosada)
-- Book: [AZ-400: Designing and Implementing Microsoft DevOps Solutions — Study Guide and Practice Questions (Japanese)](https://amzn.asia/d/5383ULx)
-- Generative AI and technical exploration: [Microsoft MVP by the Numbers — A Data Visualization Dashboard Built with Spec Kit and GitHub Copilot Agent](https://speakerdeck.com/yutakaosada/shu-zhi-dejian-ru-microsoft-mvp-spec-kit-to-github-copilot-agent-dezuo-rudetake-shi-hua-datusiyubodo)
-- Open source: [GitHub Enterprise username and enterprise slug availability checker](https://github.com/yutaka-art/slug-checker)
-- Open source: [PowerShell tool for auditing Azure service principal credential expiration](https://github.com/yutaka-art/Export-Azure-SpCredentialExpiry)
-- Presentation archive: [Speaker Deck — yutakaosada](https://speakerdeck.com/yutakaosada)
+- Technical blog: [Zenn — yutakaosada](https://zenn.dev/yutakaosada)<br><https://zenn.dev/yutakaosada>
+- Book: [AZ-400: Designing and Implementing Microsoft DevOps Solutions — Study Guide and Practice Questions (Japanese)](https://amzn.asia/d/5383ULx)<br><https://amzn.asia/d/5383ULx>
+- Generative AI and technical exploration: [Microsoft MVP by the Numbers — A Data Visualization Dashboard Built with Spec Kit and GitHub Copilot Agent](https://speakerdeck.com/yutakaosada/shu-zhi-dejian-ru-microsoft-mvp-spec-kit-to-github-copilot-agent-dezuo-rudetake-shi-hua-datusiyubodo)<br><https://speakerdeck.com/yutakaosada/shu-zhi-dejian-ru-microsoft-mvp-spec-kit-to-github-copilot-agent-dezuo-rudetake-shi-hua-datusiyubodo>
+- Open source: [GitHub Enterprise username and enterprise slug availability checker](https://github.com/yutaka-art/slug-checker)<br><https://github.com/yutaka-art/slug-checker>
+- Open source: [PowerShell tool for auditing Azure service principal credential expiration](https://github.com/yutaka-art/Export-Azure-SpCredentialExpiry)<br><https://github.com/yutaka-art/Export-Azure-SpCredentialExpiry>
+- Presentation archive: [Speaker Deck — yutakaosada](https://speakerdeck.com/yutakaosada)<br><https://speakerdeck.com/yutakaosada>
 
 ## Education
 
@@ -201,10 +203,10 @@ Within Avanade, I support engineer development and lead knowledge-sharing sessio
 
 ## Contact and Social Profiles
 
-- Email: `union.dml@gmail.com`
-- GitHub: https://github.com/yutaka-art
-- LinkedIn: https://www.linkedin.com/in/yutaka-osada0922/
-- X: https://x.com/YoutanDml
+- Email: [union.dml@gmail.com](mailto:union.dml@gmail.com)
+- GitHub: <https://github.com/yutaka-art>
+- LinkedIn: <https://www.linkedin.com/in/yutaka-osada0922/>
+- X: <https://x.com/YoutanDml>
 
 ---
 
