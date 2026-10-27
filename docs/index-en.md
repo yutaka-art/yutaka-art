@@ -154,8 +154,12 @@ GitHub Certifications
 
 Microsoft Certifications
 
+- Microsoft Certified: Microsoft Cybersecurity Architect Expert
+- Microsoft Certified: Agentic AI Business Solutions Architect
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure AI Apps and Agents Developer Associate
+- Microsoft Certified: Azure AI Cloud Developer Associate
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure Developer Associate
 - MCSD: App Builder
