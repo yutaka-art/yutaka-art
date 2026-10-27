@@ -1,5 +1,3 @@
-# Yutaka Osada
-
 **I want to accelerate DevOps transformation for more enterprises through GitHub Copilot, working closer to Microsoft's products and engineering ecosystem.** This is why I am applying for the Cloud & AI Software Solution Engineer (GitHub Presales) role.  
 **With nearly 20 years of experience in software development and architecture, I have supported customers from discovery and technical proposals through demonstrations, PoCs, implementation, and operational adoption.**  
 **Microsoft MVP (2026) and GitHub Star (2025).** I aim to combine insights from real-world customer engagements with community-driven technical expertise to transform the developer experience in the AI era.

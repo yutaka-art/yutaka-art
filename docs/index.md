@@ -1,5 +1,3 @@
-# 長田 豊（Yutaka Osada）
-
 **Microsoftのプロダクトとエンジニアリングにより近い立場から、GitHub Copilotを軸としたDevOps Transformationを、より多くの企業で加速したい。** その思いから、Cloud & AI Software Solution Engineer（GitHub Presales）を志望します。  
 **約20年にわたるソフトウェア開発・アーキテクチャ設計の経験を基盤に、顧客課題の把握、技術提案、デモ・PoC、導入・運用定着までを一貫して支援してきました。**  
 **Microsoft MVP（2026年）／GitHub Stars（2025年）。** 顧客の現場で得た知見と技術コミュニティでの実践をつなぎ、AI時代の開発者体験を変えるソリューションを届けたいと考えています。
