@@ -26,7 +26,7 @@ Microsoft MVP（2026年）／GitHub Stars（2025年）。 顧客の現場で得�
 
 主な役割： Solution Architect／Delivery Lead／DevOps Engineer／技術提案・顧客支援
 
-##### 生成AI・AI支援開発の活用支援／研修PoC（HONDA・2026年〜）
+##### 生成AI・AI支援開発の活用支援／研修PoC（製造業・2026年〜）
 
 - 自動車関連のお客様の生成AI活用促進に向け、Microsoft 365 Copilot、Claude／Claude Code等の活用シナリオ検討、技術比較・検証、顧客向け研修・デモコンテンツ作成を担当。
 - Claude Codeを用い、Agent Skills、Plan Mode、サブエージェント、Agent Teamsを組み合わせた開発支援ワークフローを検証。初心者にもAIによる設計・実装・レビュー・改善の流れが伝わる研修構成を検討。

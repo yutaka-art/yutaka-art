@@ -26,7 +26,7 @@ My guiding principle is to go beyond proving that a technology works and help cu
 
 Primary roles: Solution Architect | Delivery Lead | DevOps Engineer | Technical Solutions and Customer Engagement
 
-##### Generative AI Enablement and AI-Assisted Development Training PoC (Honda | 2026 – Present)
+##### Generative AI Enablement and AI-Assisted Development Training PoC (manufacturing industry | 2026 – Present)
 
 - Supported generative AI adoption at an automotive customer through use-case exploration, technical evaluation, and customer-facing training and demonstration materials covering Microsoft 365 Copilot, Claude, and Claude Code.
 - Evaluated AI-assisted development workflows with Agent Skills, Plan Mode, subagents, and Agent Teams in Claude Code. Helped shape training that introduces the progression from design and implementation to review and iterative improvement, including for beginners.
