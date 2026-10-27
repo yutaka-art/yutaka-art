@@ -35,7 +35,7 @@ Primary roles: Solution Architect | Delivery Lead | DevOps Engineer | Technical 
 
 Relevant areas: Generative AI enablement, AI agents, Claude Code, Microsoft 365 Copilot, PoCs, workshop design, software development process improvement
 
-##### Azure DevOps Implementation for Change Management and US-SOX / ITGC Readiness (KITO | August 2026 – Ongoing)
+##### Azure DevOps Implementation for Change Management and US-SOX / ITGC Readiness (August 2026 – Ongoing)
 
 - Served as Delivery Lead for a DevOps standardization initiative designed to support change management controls in the context of US-SOX and ITGC. Led discovery of existing change, approval, and release processes, along with requirements definition, high-level design, environment setup, and pilot planning.
 - Designed an integrated approach involving Azure Repos, Azure Pipelines, pull request reviews, branch policies, builds and deployments, release approval gates, and audit evidence, balancing delivery efficiency with traceable change management.

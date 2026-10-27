@@ -35,7 +35,7 @@ Microsoft MVP（2026年）／GitHub Stars（2025年）。 顧客の現場で得�
 
 関連領域： 生成AI活用支援、AIエージェント、Claude Code、Microsoft 365 Copilot、PoC、ワークショップ設計、開発プロセス改善
 
-##### US-SOX／ITGCを見据えたAzure DevOps導入・変更管理基盤整備（株式会社キトー・2026年8月〜進行中）
+##### US-SOX／ITGCを見据えたAzure DevOps導入・変更管理基盤整備（製造業・2026年8月〜進行中）
 
 - デリバリリードとして、US-SOX／ITGCの変更管理統制への対応を見据えたDevOps標準化を推進。現行の変更・承認・リリース業務をヒアリングし、Azure DevOps導入の要件定義、基本設計、環境整備、パイロット運用計画を主導。
 - Azure Repos／Pipelines、Pull Requestレビュー、ブランチポリシー、ビルド・デプロイ、リリース承認ゲート、監査証跡を関連づけ、開発の効率性と変更管理の説明可能性を両立する構成を設計。
