@@ -176,6 +176,8 @@ Within Avanade, I support engineer development and lead knowledge-sharing sessio
 | Date | Event | Topic / Materials |
 | --- | --- | --- |
 | 2026-10-22 | Dev Days: Copilot CLI × DevOps (Avanade Japan) | [GitHub Copilot CLI × Agentic DevOps — Going Beyond Deployment in 15 Minutes](https://avanadejapantech.connpass.com/event/406658/)<br><https://avanadejapantech.connpass.com/event/406658/> |
+| 2026-04-14 | DevOpsDays Tokyo 2026 (CFP-selected) | [Accelerating the DevOps Feedback Loop with Agentic AI — Turning Support Tickets into SLA Risk Signals](https://speakerdeck.com/yutakaosada/20260414-agentic-aidejia-su-surudevopshuidobatukurupu-sapototiketutowoslarisukunosigunarunibian-eru)<br><https://speakerdeck.com/yutakaosada/20260414-agentic-aidejia-su-surudevopshuidobatukurupu-sapototiketutowoslarisukunosigunarunibian-eru> |
+| 2026-01-10 | BuriKaigi 2026 (CFP-selected) | [The State of GitHub Migration — Selecting the Right Tools and Identifying What Cannot Be Migrated](https://speakerdeck.com/yutakaosada/20260110-githubyi-xing-noxian-zai-di-turuxuan-ding-toyi-senaimononojian-ji-me)<br><https://speakerdeck.com/yutakaosada/20260110-githubyi-xing-noxian-zai-di-turuxuan-ding-toyi-senaimononojian-ji-me> |
 | 2025-11-26 | GitHub Universe '25 Recap Tokyo | [DevOps and GitHub in the AI-Native Era — Avanade's New Standard for Value Velocity](https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4)<br><https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4> |
 | 2025-10-25 | .NET Lab | [Making GitHub Copilot Adoption Measurable — Building a Backend with Cron × Dapr × Cosmos DB](https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo)<br><https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo> |
 | 2025-08-20 | Platform Engineering Meetup Online | [How Do You Build a Trustworthy Developer Platform? — A Practical Approach to Platform Engineering](https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang)<br><https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang> |
@@ -210,4 +212,4 @@ Within Avanade, I support engineer development and lead knowledge-sharing sessio
 
 ---
 
-Last updated: October 27, 2026
+Last updated: October 28, 2026

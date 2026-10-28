@@ -176,6 +176,8 @@ Microsoft Certifications
 | 日付 | イベント | 登壇テーマ・資料 |
 | --- | --- | --- |
 | 2026/10/22 | Dev Days｜Copilot CLI × DevOps（Avanade Japan） | [GitHub Copilot CLI × Agentic DevOps — Deployで終わらせないための15分](https://avanadejapantech.connpass.com/event/406658/)<br><https://avanadejapantech.connpass.com/event/406658/> |
+| 2026/04/14 | DevOpsDays Tokyo 2026（公募プロポーザル採択） | [Agentic AIで加速するDevOpsフィードバックループ — サポートチケットをSLAリスクのシグナルに変える](https://speakerdeck.com/yutakaosada/20260414-agentic-aidejia-su-surudevopshuidobatukurupu-sapototiketutowoslarisukunosigunarunibian-eru)<br><https://speakerdeck.com/yutakaosada/20260414-agentic-aidejia-su-surudevopshuidobatukurupu-sapototiketutowoslarisukunosigunarunibian-eru> |
+| 2026/01/10 | BuriKaigi 2026／ブリ会議2026（公募プロポーザル採択） | [GitHub移行の現在地 — ツール選定と移せないものの見極め](https://speakerdeck.com/yutakaosada/20260110-githubyi-xing-noxian-zai-di-turuxuan-ding-toyi-senaimononojian-ji-me)<br><https://speakerdeck.com/yutakaosada/20260110-githubyi-xing-noxian-zai-di-turuxuan-ding-toyi-senaimononojian-ji-me> |
 | 2025/11/26 | GitHub Universe ’25 Recap Tokyo | [AI-Native時代のDevOpsとGitHub活用 — Avanadeが導く価値速度の新標準](https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4)<br><https://github.registration.goldcast.io/events/881d0dd3-da25-4d1b-9a73-7b533dcd9aa4> |
 | 2025/10/25 | .NETラボ | [GitHub Copilot活用度を“計測できる”にする — Cron × Dapr × Cosmos DBで作るバックエンド](https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo)<br><https://speakerdeck.com/yutakaosada/20251025-github-copilothuo-yong-du-wo-ji-ce-dekiru-nisuru-cronxdaprxcosmos-dbdezuo-rubatukuendo> |
 | 2025/08/20 | Platform Engineering Meetup Online | [信頼できる開発プラットフォームをどう作るか？ — Platform Engineeringの進め方](https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang)<br><https://speakerdeck.com/yutakaosada/20250820-xin-lai-dekirukai-fa-puratutohuomuwodouzuo-ruka-governance-as-codetoji-sok-de-jian-shi-slash-huidobatukugadao-kuplatform-engineeringnojin-mefang> |
@@ -210,4 +212,4 @@ Microsoft Certifications
 
 ---
 
-更新日：2026年10月26日
+更新日：2026年10月28日
