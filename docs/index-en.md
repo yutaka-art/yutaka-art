@@ -16,7 +16,7 @@ My guiding principle is to go beyond proving that a technology works and help cu
 
 - Technical presales and customer engagement: Experience selling GitHub licenses through the CSP model, designing GitHub Enterprise Cloud governance practices, identifying technical requirements, and aligning stakeholders around proposed solutions.
 - AI-assisted development demos and PoCs: Supported generative AI enablement for Honda, including a Claude Code training PoC and evaluations of developer workflows involving Agent Skills, subagents, and Agent Teams.
-- Enterprise adoption, security, and governance: Led an Azure DevOps implementation for KITO, with a focus on change management controls and audit evidence in the context of US-SOX and IT General Controls (ITGC).
+- Enterprise adoption, security, and governance: Led an Azure DevOps implementation, with a focus on change management controls and audit evidence in the context of US-SOX and IT General Controls (ITGC).
 - Demonstrating GitHub Copilot value: Designed Copilot Insight, an asset that collects and visualizes GitHub Copilot usage metrics, providing a foundation for tracking adoption and informing continuous improvement.
 - Technical leadership and community contribution: Recognized as a Microsoft MVP (Developer Technologies / DevOps) and a GitHub Star, with speaking and writing experience across GitHub Copilot, agentic DevOps, platform engineering, and security.
 

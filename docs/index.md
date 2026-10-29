@@ -15,8 +15,8 @@ Microsoft MVP（2026年）／GitHub Stars（2025年）。 顧客の現場で得�
 ### 本ポジションに直結する経験
 
 - 技術プリセールス／顧客折衝： GitHubライセンスのCSP販売経験。GitHub Enterprise Cloudの導入・運用ガバナンス設計や、複数の顧客での技術提案・要件整理・関係者との合意形成を経験。
-- AI支援開発のデモ・PoC： HONDA向けにClaude Codeなどを活用した生成AI研修・技術検証を担当。Agent Skills、サブエージェント、Agent Teamsを含む開発ワークフローを検証し、研修PoCを実施。
-- エンタープライズ導入・セキュリティ： キトー向けにUS-SOX／ITGCの変更管理統制を見据え、Azure DevOpsのリポジトリ、CI/CD、承認フロー、監査証跡を含む導入をデリバリリードとして推進。
+- AI支援開発のデモ・PoC： Claude Codeなどを活用した生成AI研修・技術検証を担当。Agent Skills、サブエージェント、Agent Teamsを含む開発ワークフローを検証し、研修PoCを実施。
+- エンタープライズ導入・セキュリティ： US-SOX／ITGCの変更管理統制を見据え、Azure DevOpsのリポジトリ、CI/CD、承認フロー、監査証跡を含む導入をデリバリリードとして推進。
 - GitHub Copilotの価値可視化： 利用メトリクスを取得・可視化する「Copilot Insight」を設計。AIツールの導入後の活用状況を、継続的に評価するための仕組みを構築。
 - 技術発信とコミュニティ貢献： Microsoft MVP（Developer Technologies／DevOps）とGitHub Starsの両プログラムで認定。GitHub Copilot、Agentic DevOps、Platform Engineering、セキュリティ分野で登壇・執筆。
 
