@@ -39,8 +39,8 @@ Hi, I'm an Azure solution developer and DevOps engineer. 💻
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#391](https://github.com/github-copilot-resources/copilot-metrics-viewer/pull/391) in [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer)
-2. ❌ Closed PR [#392](https://github.com/github-copilot-resources/copilot-metrics-viewer/pull/392) in [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer)
+1. 🎉 Merged PR [#3](https://github.com/yutaka-art/slide/pull/3) in [yutaka-art/slide](https://github.com/yutaka-art/slide)
+2. 💪 Opened PR [#3](https://github.com/yutaka-art/slide/pull/3) in [yutaka-art/slide](https://github.com/yutaka-art/slide)
 <!--END_SECTION:activity-->
 </details>
 ---
